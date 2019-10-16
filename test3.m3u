@@ -1,533 +1,534 @@
 #EXTM3U
 #EXTINF:0 tvg-name="AMCHu"tvg-id="http://hudeepg.ingyenweb.hu/guide.xml",AMCHu
- http://5.13.207.232:8001/1:0:1:7981:2C7:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7981:2C7:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="AMCHu"tvg-id="http://hudeepg.ingyenweb.hu/guide.xml",AMCHu
- http://5.13.207.232:8001/1:0:1:7996:2C7:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7996:2C7:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Animal Planet"tvg-id="http://hudeepg.ingyenweb.hu/guide.xml",Animal Planet
- http://5.13.207.232:8001/1:0:1:77F0:2C3:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:77F0:2C3:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Animal Planet HD"tvg-id="http://hudeepg.ingyenweb.hu/guide.xml",Animal Planet HD
- http://5.13.207.232:8001/1:0:19:106B:26:46:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:106B:26:46:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Animal Planet HD"tvg-id="http://hudeepg.ingyenweb.hu/guide.xml",Animal Planet HD
- http://5.13.207.232:8001/1:0:19:7923:2C6:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:7923:2C6:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Antena Stars"tvg-id="http://www.Antena2.ro",Antena Stars
- http://5.13.207.232:8001/1:0:1:76D2:2C0:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:76D2:2C0:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Auto Motor Sport"tvg-id="http://www.AutoMotorundSportChannel.eu",Auto Motor Sport
- http://5.13.207.232:8001/1:0:1:778E:2C2:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:778E:2C2:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="AXN CE"tvg-id="http://www.AXN.hu",AXN CE
- http://5.13.207.232:8001/1:0:1:2AFC:B:1111:E082F3C:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:2AFC:B:1111:E082F3C:0:0:0:	
 #EXTINF:0 tvg-name="AXN CE"tvg-id="http://www.AXN.hu",AXN CE
- http://5.13.207.232:8001/1:0:1:2AFC:B:1111:E082F62:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:2AFC:B:1111:E082F62:0:0:0:	
 #EXTINF:0 tvg-name="AXN Black"tvg-id="http://www.AXNBlack.hu",AXN Black
- http://5.13.207.232:8001/1:0:1:2AFB:B:1111:E082F3C:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:2AFB:B:1111:E082F3C:0:0:0:	
 #EXTINF:0 tvg-name="AXN Black"tvg-id="http://www.AXNBlack.hu",AXN Black
- http://5.13.207.232:8001/1:0:1:2B08:B:1111:E082F3C:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:2B08:B:1111:E082F3C:0:0:0:	
 #EXTINF:0 tvg-name="bbcearth"tvg-id="http://www.BBCEarth.hu",bbcearth
- http://5.13.207.232:8001/1:0:19:1C06:29:46:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:1C06:29:46:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Boomerang"tvg-id="http://www.Boomerang.hu",Boomerang
- http://5.13.207.232:8001/1:0:1:77F6:2C3:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:77F6:2C3:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Boomerang"tvg-id="http://www.Boomerang.hu",Boomerang
- http://5.13.207.232:8001/1:0:1:7804:2C3:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7804:2C3:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="C8"tvg-id="http://www.C8.hu",C8
- http://5.13.207.232:8001/		
+ http://79.117.222.55:8001/		
 #EXTINF:0 tvg-name="Cartoon Network"tvg-id="http://www.CartoonNetwork.hu",Cartoon Network
- http://5.13.207.232:8001/1:0:1:550:4:1:E08AF9C:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:550:4:1:E08AF9C:0:0:0:	
 #EXTINF:0 tvg-name="Cartoon Network Central & Eastern Europe"tvg-id="http://www.CartoonNetwork.hu",Cartoon Network Central & Eastern Europe
- http://5.13.207.232:8001/1:0:1:797E:2C7:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:797E:2C7:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Cartoon Network / TCM"tvg-id="http://www.CartoonNetworkTCM.hu",Cartoon Network / TCM
- http://5.13.207.232:8001/1:0:1:7852:2C4:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7852:2C4:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Cartoon Network / TCM (3-21)"tvg-id="http://www.CartoonNetworkTCM(3-21).hu",Cartoon Network / TCM (3-21)
- http://5.13.207.232:8001/1:0:1:797E:2C7:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:797E:2C7:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Chili"tvg-id="http://www.ChiliTV.hu",Chili
- http://5.13.207.232:8001/1:0:1:766F:2BF:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:766F:2BF:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Chili"tvg-id="http://www.ChiliTV.hu",Chili
- http://5.13.207.232:8001/1:0:1:7673:2BF:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7673:2BF:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Cinemax"tvg-id="http://www.Cinemax.hu",Cinemax
- http://5.13.207.232:8001/1:0:1:77F5:2C3:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:77F5:2C3:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Cinemax2"tvg-id="http://www.Cinemax2.hu",Cinemax2
- http://5.13.207.232:8001/1:0:1:78C2:2C5:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:78C2:2C5:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Comedy Central Hungary"tvg-id="http://www.ComedyCentral.hu",Comedy Central Hungary
- http://5.13.207.232:8001/1:0:1:1F7:1B:2C0:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:1F7:1B:2C0:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Comedy Central Extra"tvg-id="http://www.ComedyCentralExtra.hu",Comedy Central Extra
- http://5.13.207.232:8001/1:0:1:1F8:1B:2C0:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:1F8:1B:2C0:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Comedy Central Extra"tvg-id="http://www.ComedyCentralExtra.hu",Comedy Central Extra
- http://5.13.207.232:8001/1:0:1:3F1:5:1111:E082DE3:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:3F1:5:1111:E082DE3:0:0:0:	
 #EXTINF:0 tvg-name="Comedy Central Family"tvg-id="http://www.ComedyCentralFamily.hu",Comedy Central Family
- http://5.13.207.232:8001/1:0:1:1F6:1B:2C0:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:1F6:1B:2C0:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Cool"tvg-id="http://www.Cool.hu",Cool
- http://5.13.207.232:8001/1:0:1:7664:2BF:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7664:2BF:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Da Vinci Learning"tvg-id="http://www.DaVinciLearning.hu",Da Vinci Learning
- http://5.13.207.232:8001/1:0:1:785C:2C4:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:785C:2C4:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Da Vinci Learning"tvg-id="http://www.DaVinciLearning.hu",Da Vinci Learning
- http://5.13.207.232:8001/1:0:1:7988:2C7:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7988:2C7:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Da Vinci Learning"tvg-id="http://www.DaVinciLearning.hu",Da Vinci Learning
- http://5.13.207.232:8001/1:0:1:7988:2C7:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7988:2C7:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Da Vinci Learning"tvg-id="http://www.DaVinciLearning.hu",Da Vinci Learning
- http://5.13.207.232:8001/1:0:1:B90:7:1:E082E56:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:B90:7:1:E082E56:0:0:0:	
 #EXTINF:0 tvg-name="Da Vinci Learning"tvg-id="http://www.DaVinciLearning.hu",Da Vinci Learning
- http://5.13.207.232:8001/1:0:1:B90:7:1:E08313F:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:B90:7:1:E08313F:0:0:0:	
 #EXTINF:0 tvg-name="Da Vinci Learning"tvg-id="http://www.DaVinciLearning.hu",Da Vinci Learning
- http://5.13.207.232:8001/1:0:1:B90:7:1:E08313F:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:B90:7:1:E08313F:0:0:0:	
 #EXTINF:0 tvg-name="DIGI Animal World"tvg-id="http://www.DigiAnimalWorld.hu",DIGI Animal World
- http://5.13.207.232:8001/1:0:1:177A:7:1:E082E56:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:177A:7:1:E082E56:0:0:0:	
 #EXTINF:0 tvg-name="DIGI Animal World"tvg-id="http://www.DigiAnimalWorld.hu",DIGI Animal World
- http://5.13.207.232:8001/1:0:1:177A:7:1:E08313F:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:177A:7:1:E08313F:0:0:0:	
 #EXTINF:0 tvg-name="DIGI Film HU"tvg-id="http://www.DigiFilm.hu",DIGI Film HU
- http://5.13.207.232:8001/1:0:1:41A:3:1:E083163:0:0:0: 	
+ http://79.117.222.55:8001/1:0:1:41A:3:1:E083163:0:0:0: 	
 #EXTINF:0 tvg-name="DigiLife"tvg-id="http://www.DigiLife.hu",DigiLife
- http://5.13.207.232:8001/1:0:1:403:2:1:E0831B3:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:403:2:1:E0831B3:0:0:0:	
 #EXTINF:0 tvg-name="DIGI Sport 1 HU"tvg-id="http://www.DigiSport1.hu",DIGI Sport 1 HU
- http://5.13.207.232:8001/1:0:1:49C:3:1:E082F62:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:49C:3:1:E082F62:0:0:0:	
 #EXTINF:0 tvg-name="DIGI Sport 1 HD HU"tvg-id="http://www.DigiSport1.hu",DIGI Sport 1 HD HU
- http://5.13.207.232:8001/1:0:1:FB4:D:1:E082E2F:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:FB4:D:1:E082E2F:0:0:0:	
 #EXTINF:0 tvg-name="DIGI Sport 1 HU"tvg-id="http://www.DigiSport1.hu",DIGI Sport 1 HU
- http://5.13.207.232:8001/1:0:19:FB4:D:1:E082E2F:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:FB4:D:1:E082E2F:0:0:0:	
 #EXTINF:0 tvg-name="DIGI Sport 2 HD HU"tvg-id="http://www.DigiSport2.hu",DIGI Sport 2 HD HU
- http://5.13.207.232:8001/1:0:1:4A3:3:1:E082F62:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:4A3:3:1:E082F62:0:0:0:	
 #EXTINF:0 tvg-name="DIGI Sport 2 HD HU"tvg-id="http://www.DigiSport2.hu",DIGI Sport 2 HD HU
- http://5.13.207.232:8001/1:0:1:FDC:D:1:E082E2F:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:FDC:D:1:E082E2F:0:0:0:	
 #EXTINF:0 tvg-name="DIGI Sport 2 HU"tvg-id="http://www.DigiSport2.hu",DIGI Sport 2 HU
- http://5.13.207.232:8001/1:0:1:FDC:D:1:E082E2F:0:0:0: 	
+ http://79.117.222.55:8001/1:0:1:FDC:D:1:E082E2F:0:0:0: 	
 #EXTINF:0 tvg-name="Digi Sport 2 HD HU"tvg-id="http://www.DigiSport2.hu",Digi Sport 2 HD HU
- http://5.13.207.232:8001/1:0:19:FDC:D:1:E082E2F:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:FDC:D:1:E082E2F:0:0:0:	
 #EXTINF:0 tvg-name="DigiSport3"tvg-id="http://www.DigiSport3.hu",DigiSport3
- http://5.13.207.232:8001/1:0:1:407:3:1:E082F62:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:407:3:1:E082F62:0:0:0:	
 #EXTINF:0 tvg-name="DIGI World HD HU"tvg-id="http://www.DigiWorld.hu",DIGI World HD HU
- http://5.13.207.232:8001/1:0:1:424:3:1:E082F62:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:424:3:1:E082F62:0:0:0:	
 #EXTINF:0 tvg-name="DIGI World HD HU"tvg-id="http://www.DigiWorld.hu",DIGI World HD HU
- http://5.13.207.232:8001/1:0:1:FD2:D:1:E082E2F:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:FD2:D:1:E082E2F:0:0:0:	
 #EXTINF:0 tvg-name="Discovery Channel"tvg-id="http://www.DiscoveryChannel.hu",Discovery Channel
- http://5.13.207.232:8001/1:0:1:78B7:2C5:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:78B7:2C5:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Discovery HD Showcase"tvg-id="http://www.DiscoveryHDShowcase.hu",Discovery HD Showcase
- http://5.13.207.232:8001/1:0:19:1006:29:46:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:1006:29:46:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Discovery HD Showcase"tvg-id="http://www.DiscoveryHDShowcase.hu",Discovery HD Showcase
- http://5.13.207.232:8001/1:0:19:7921:2C6:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:7921:2C6:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Discovery Science"tvg-id="http://www.DiscoveryScience.hu",Discovery Science
- http://5.13.207.232:8001/1:0:1:77F2:2C3:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:77F2:2C3:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Disney Channel"tvg-id="http://www.DisneyChannel.hu",Disney Channel
- http://5.13.207.232:8001/1:0:1:77EF:2C3:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:77EF:2C3:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Disney Channel"tvg-id="http://www.DisneyChannel.hu",Disney Channel
- http://5.13.207.232:8001/1:0:1:7803:2C3:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7803:2C3:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="DOQ"tvg-id="http://www.DOQ.hu",DOQ
- http://5.13.207.232:8001/1:0:1:79FB:2C8:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:79FB:2C8:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="DOQ"tvg-id="http://www.DOQ.hu",DOQ
- http://5.13.207.232:8001/1:0:1:79FE:2C8:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:79FE:2C8:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="DOQ"tvg-id="http://www.DOQ.hu",DOQ
- http://5.13.207.232:8001/1:0:1:7A00:2C8:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7A00:2C8:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="DTX"tvg-id="http://www.DTX.hu",DTX
- http://5.13.207.232:8001/1:0:1:77FA:2C3:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:77FA:2C3:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="DTX"tvg-id="http://www.DTX.hu",DTX
- http://5.13.207.232:8001/1:0:1:BBA:2:5E:E08B00F:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:BBA:2:5E:E08B00F:0:0:0:	
 #EXTINF:0 tvg-name="Duck TV"tvg-id="http://www.DuckTV.cz",Duck TV
- http://5.13.207.232:8001/1:0:1:77F9:2C3:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:77F9:2C3:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Duna TV"tvg-id="http://www.Duna.hu",Duna TV
- http://5.13.207.232:8001/1:0:1:78C4:2C5:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:78C4:2C5:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Duna TV"tvg-id="http://www.Duna.hu",Duna TV
- http://5.13.207.232:8001/1:0:1:78C6:2C5:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:78C6:2C5:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Duna TV"tvg-id="http://www.Duna.hu",Duna TV
- http://5.13.207.232:8001/1:0:1:D20:5:1:E082E09:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:D20:5:1:E082E09:0:0:0:	
 #EXTINF:0 tvg-name="Duna HD"tvg-id="http://www.Duna.hu",Duna HD
- http://5.13.207.232:8001/1:0:19:7919:2C6:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:7919:2C6:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Duna World"tvg-id="http://www.Duna2.hu",Duna World
- http://5.13.207.232:8001/1:0:1:7608:2BE:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7608:2BE:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Echo TV"tvg-id="http://www.EchoTV.hu",Echo TV
- http://5.13.207.232:8001/1:0:1:7604:2BE:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7604:2BE:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Eurosport"tvg-id="http://www.Eurosport1.hu",Eurosport
- http://5.13.207.232:8001/1:0:1:78B5:2C5:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:78B5:2C5:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Eurosport 1 HD"tvg-id="http://www.Eurosport1.hu",Eurosport 1 HD
- http://5.13.207.232:8001/1:0:19:7DF:AF2:BB:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:7DF:AF2:BB:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Eurosport 2"tvg-id="http://www.Eurosport2.hu",Eurosport 2
- http://5.13.207.232:8001/1:0:1:77FE:2C3:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:77FE:2C3:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Eurosport 2"tvg-id="http://www.Eurosport2.hu",Eurosport 2
- http://5.13.207.232:8001/1:0:1:77FF:2C3:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:77FF:2C3:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Eurosport 2"tvg-id="http://www.Eurosport2.hu",Eurosport 2
- http://5.13.207.232:8001/1:0:1:B22:7:1:E08313F:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:B22:7:1:E08313F:0:0:0:	
 #EXTINF:0 tvg-name="Eurosport 2 HD"tvg-id="http://www.Eurosport2.hu",Eurosport 2 HD
- http://5.13.207.232:8001/1:0:19:7E0:AF2:BB:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:7E0:AF2:BB:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Extreme Sports Channel"tvg-id="http://www.ExtremeSports.hu",Extreme Sports Channel
- http://5.13.207.232:8001/1:0:1:77ED:2C3:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:77ED:2C3:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="FEM3"tvg-id="http://www.FEM3.hu",FEM3
- http://5.13.207.232:8001/1:0:1:78BA:2C5:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:78BA:2C5:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="FEM3"tvg-id="http://www.FEM3.hu",FEM3
- http://5.13.207.232:8001/1:0:1:78C7:2C5:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:78C7:2C5:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Fem3 HU"tvg-id="http://www.FEM3.hu",Fem3 HU
- http://5.13.207.232:8001/1:0:16:FB2:AF4:BB:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:16:FB2:AF4:BB:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Film 4"tvg-id="http://www.Film4.hu",Film 4
- http://5.13.207.232:8001/1:0:1:CEE:3:1:E082F62:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:CEE:3:1:E082F62:0:0:0:	
 #EXTINF:0 tvg-name="Filmbox"tvg-id="http://www.Filmbox.hu",Filmbox
- http://5.13.207.232:8001/1:0:1:3F3:5:1111:E082DE3:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:3F3:5:1111:E082DE3:0:0:0:	
 #EXTINF:0 tvg-name="FilmBox Extra HD"tvg-id="http://www.FilmboxExtra.hu",FilmBox Extra HD
- http://5.13.207.232:8001/1:0:19:773B:2C1:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:773B:2C1:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Filmbox Family"tvg-id="http://www.FilmboxFamily.hu",Filmbox Family
- http://5.13.207.232:8001/1:0:1:75F9:2BE:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:75F9:2BE:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Filmbox Family"tvg-id="http://www.FilmBoxFamily.ro",Filmbox Family
- http://5.13.207.232:8001/1:0:1:75F9:2BE:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:75F9:2BE:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Filmbox Plus"tvg-id="http://www.FilmboxPlus.hu",Filmbox Plus
- http://5.13.207.232:8001/1:0:1:7609:2BE:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7609:2BE:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Filmbox Premium"tvg-id="http://www.FilmboxPremium.hu",Filmbox Premium
- http://5.13.207.232:8001/1:0:1:FB8:AF4:BB:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:FB8:AF4:BB:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Filmbox Premium"tvg-id="http://www.FilmboxPremium.hu",Filmbox Premium
- http://5.13.207.232:8001/1:0:16:772B:2C1:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:16:772B:2C1:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Film Cafe"tvg-id="http://www.FilmCafe.hu",Film Cafe
- http://5.13.207.232:8001/1:0:1:7663:2BF:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7663:2BF:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Film Mania"tvg-id="http://www.FilmMania.hu",Film Mania
- http://5.13.207.232:8001/1:0:1:76CF:2C0:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:76CF:2C0:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Film+"tvg-id="http://www.FilmPlus.hu",Film+
- http://5.13.207.232:8001/1:0:1:75FB:2BE:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:75FB:2BE:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Fine Living.."tvg-id="http://www.FineLiving.hu",Fine Living..
- http://5.13.207.232:8001/1:0:1:76C5:2C0:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:76C5:2C0:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Fishing and Hunting"tvg-id="http://www.FishingHunting.hu",Fishing and Hunting
- http://5.13.207.232:8001/1:0:1:79FC:2C8:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:79FC:2C8:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Fishing and Hunting"tvg-id="http://www.FishingHunting.hu",Fishing and Hunting
- http://5.13.207.232:8001/1:0:1:79FF:2C8:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:79FF:2C8:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Fishing and Hunting"tvg-id="http://www.FishingHunting.hu",Fishing and Hunting
- http://5.13.207.232:8001/1:0:1:7A01:2C8:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7A01:2C8:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Food Network"tvg-id="http://www.FoodNetwork.hu",Food Network
- http://5.13.207.232:8001/1:0:1:765F:2BF:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:765F:2BF:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="GALAXY"tvg-id="http://www.Galaxy.hu",GALAXY
- http://5.13.207.232:8001/1:0:1:A96:3:1:E082F62:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:A96:3:1:E082F62:0:0:0:	
 #EXTINF:0 tvg-name="H!T Music Channel"tvg-id="http://www.H!TMusic.ro",H!T Music Channel
- http://5.13.207.232:8001/1:0:1:A1E:5:1:E082E09:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:A1E:5:1:E082E09:0:0:0:	
 #EXTINF:0 tvg-name="Happy TV"tvg-id="http://www.HappyTV.ro",Happy TV
- http://5.13.207.232:8001/1:0:1:7667:2BF:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7667:2BF:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="HBO"tvg-id="http://www.HBO.hu",HBO
- http://5.13.207.232:8001/1:0:1:7595:2BD:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7595:2BD:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="HBO"tvg-id="http://www.HBO.hu",HBO
- http://5.13.207.232:8001/1:0:1:A64:5:1:E082E09:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:A64:5:1:E082E09:0:0:0:	
 #EXTINF:0 tvg-name="HBO HD"tvg-id="http://www.HBO.hu",HBO HD
- http://5.13.207.232:8001/1:0:19:791D:2C6:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:791D:2C6:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="HBO2"tvg-id="http://www.HBO2.hu",HBO2
- http://5.13.207.232:8001/1:0:1:77F1:2C3:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:77F1:2C3:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="HBO2"tvg-id="http://www.HBO2.hu",HBO2
- http://5.13.207.232:8001/1:0:1:A46:5:1:E082E09:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:A46:5:1:E082E09:0:0:0:	
 #EXTINF:0 tvg-name="HBO2"tvg-id="http://www.HBO2.hu",HBO2
- http://5.13.207.232:8001/1:0:1:A46:5:1:E082E09:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:A46:5:1:E082E09:0:0:0:	
 #EXTINF:0 tvg-name="HBO2"tvg-id="http://www.HBO2.hu",HBO2
- http://5.13.207.232:8001/1:0:1:BC3:AF3:BB:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:BC3:AF3:BB:E080000:0:0:0:	
 #EXTINF:0 tvg-name="HBO3 HU"tvg-id="http://www.HBOComedy.hu",HBO3 HU
- http://5.13.207.232:8001/1:0:1:D98:C:1:E082E7C:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:D98:C:1:E082E7C:0:0:0:	
 #EXTINF:0 tvg-name="HirTV"tvg-id="http://www.HirTV.hu",HirTV
- http://5.13.207.232:8001/1:0:1:7790:2C2:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7790:2C2:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="History"tvg-id="http://www.HISTORY.hu",History
- http://5.13.207.232:8001/1:0:1:1CAC:4C:46:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:1CAC:4C:46:E080000:0:0:0:	
 #EXTINF:0 tvg-name="HISTORY"tvg-id="http://www.HISTORY.hu",HISTORY
- http://5.13.207.232:8001/1:0:1:40A:7:1:E08313F:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:40A:7:1:E08313F:0:0:0:	
 #EXTINF:0 tvg-name="HISTORY"tvg-id="http://www.HISTORY.hu",HISTORY
- http://5.13.207.232:8001/1:0:1:785E:2C4:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:785E:2C4:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="History"tvg-id="http://www.HISTORY.hu",History
- http://5.13.207.232:8001/1:0:1:798A:2C7:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:798A:2C7:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="History Chnl HD"tvg-id="http://www.HISTORY.hu",History Chnl HD
- http://5.13.207.232:8001/1:0:19:106A:29:46:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:106A:29:46:E080000:0:0:0:	
 #EXTINF:0 tvg-name="History Chnl HD"tvg-id="http://www.HISTORY.hu",History Chnl HD
- http://5.13.207.232:8001/1:0:19:106E:29:46:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:106E:29:46:E080000:0:0:0:	
 #EXTINF:0 tvg-name="History HD"tvg-id="http://www.HISTORY.hu",History HD
- http://5.13.207.232:8001/1:0:19:773C:2C1:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:773C:2C1:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Humor +"tvg-id="http://www.Humor+.hu",Humor +
- http://5.13.207.232:8001/1:0:1:798D:2C7:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:798D:2C7:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Humor +"tvg-id="http://www.Humor+.hu",Humor +
- http://5.13.207.232:8001/1:0:1:7992:2C7:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7992:2C7:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="ID Xtra"tvg-id="http://www.IDExtra.hu",ID Xtra
- http://5.13.207.232:8001/1:0:1:785B:2C4:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:785B:2C4:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="ID Xtra"tvg-id="http://www.IDXtra.hu",ID Xtra
- http://5.13.207.232:8001/1:0:1:785B:2C4:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:785B:2C4:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Investigation Discovery"tvg-id="http://www.IDXtra.hu",Investigation Discovery
- http://5.13.207.232:8001/1:0:1:7987:2C7:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7987:2C7:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="ID Xtra"tvg-id="http://www.IDXtra.hu",ID Xtra
- http://5.13.207.232:8001/1:0:1:BC5:AF3:BB:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:BC5:AF3:BB:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Discovery ID"tvg-id="http://www.InvestigationDiscovery.hu",Discovery ID
- http://5.13.207.232:8001/1:0:1:785B:2C4:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:785B:2C4:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Izaura TV"tvg-id="http://www.IzauraTV.hu",Izaura TV
- http://5.13.207.232:8001/1:0:1:79F7:2C8:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:79F7:2C8:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Izaura TV"tvg-id="http://www.IzauraTV.hu",Izaura TV
- http://5.13.207.232:8001/1:0:1:79F8:2C8:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:79F8:2C8:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="JimJam"tvg-id="http://www.JimJam.hu",JimJam
- http://5.13.207.232:8001/1:0:1:77EE:2C3:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:77EE:2C3:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Jocky TV"tvg-id="http://www.JockyTV.hu",Jocky TV
- http://5.13.207.232:8001/1:0:1:75AA:2BD:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:75AA:2BD:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Jocky TV"tvg-id="http://www.JockyTV.hu",Jocky TV
- http://5.13.207.232:8001/1:0:1:75B2:2BD:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:75B2:2BD:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Kiss TV"tvg-id="http://www.KissTV.ro",Kiss TV
- http://5.13.207.232:8001/1:0:1:3FB:1:1:E08318F:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:3FB:1:1:E08318F:0:0:0:	
 #EXTINF:0 tvg-name="Kiwi TV"tvg-id="http://www.KiwiTV.hu",Kiwi TV
- http://5.13.207.232:8001/1:0:1:76D1:2C0:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:76D1:2C0:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="m1"tvg-id="http://www.m1.hu",m1
- http://5.13.207.232:8001/1:0:1:618:5:1:E082E09:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:618:5:1:E082E09:0:0:0:	
 #EXTINF:0 tvg-name="m1"tvg-id="http://www.m1.hu",m1
- http://5.13.207.232:8001/1:0:1:778D:2C2:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:778D:2C2:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="M1 HD"tvg-id="http://www.m1.hu",M1 HD
- http://5.13.207.232:8001/1:0:1:FC8:D:1:E082E2F:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:FC8:D:1:E082E2F:0:0:0:	
 #EXTINF:0 tvg-name="m2"tvg-id="http://www.m2.hu",m2
- http://5.13.207.232:8001/1:0:1:778F:2C2:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:778F:2C2:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="m2"tvg-id="http://www.m2.hu",m2
- http://5.13.207.232:8001/1:0:1:A8C:5:1:E082E09:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:A8C:5:1:E082E09:0:0:0:	
 #EXTINF:0 tvg-name="m2 HD"tvg-id="http://www.m2.hu",m2 HD
- http://5.13.207.232:8001/1:0:19:7726:2C1:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:7726:2C1:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="M3 Anno"tvg-id="http://www.m3.hu",M3 Anno
- http://5.13.207.232:8001/1:0:1:77F4:2C3:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:77F4:2C3:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="M3 Anno"tvg-id="http://www.m3.hu",M3 Anno
- http://5.13.207.232:8001/1:0:1:79E2:2C8:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:79E2:2C8:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="M4 Sport HD"tvg-id="http://www.M4Sport.hu",M4 Sport HD
- http://5.13.207.232:8001/1:0:1:DA2:C:1:E082E7C:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:DA2:C:1:E082E7C:0:0:0:	
 #EXTINF:0 tvg-name="M4 Sport"tvg-id="http://www.M4Sport.hu",M4 Sport
- http://5.13.207.232:8001/1:0:16:BD2:AF3:BB:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:16:BD2:AF3:BB:E080000:0:0:0:	
 #EXTINF:0 tvg-name="m4 HD"tvg-id="http://www.M4Sport.hu",m4 HD
- http://5.13.207.232:8001/1:0:19:791E:2C6:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:791E:2C6:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="m5 HD"tvg-id="http://www.m5.hu",m5 HD
- http://5.13.207.232:8001/1:0:1:7675:2BF:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7675:2BF:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="m5 HD"tvg-id="http://www.m5.hu",m5 HD
- http://5.13.207.232:8001/1:0:19:773A:2C1:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:773A:2C1:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="ATV"tvg-id="http://www.MagyarATV.hu",ATV
- http://5.13.207.232:8001/1:0:1:5E8:4:1:E08AF9C:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:5E8:4:1:E08AF9C:0:0:0:	
 #EXTINF:0 tvg-name="ATV"tvg-id="http://www.MagyarATV.hu",ATV
- http://5.13.207.232:8001/1:0:1:7603:2BE:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7603:2BE:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Megamax"tvg-id="http://www.Megamax.hu",Megamax
- http://5.13.207.232:8001/1:0:1:7851:2C4:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7851:2C4:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Megamax"tvg-id="http://www.Megamax.hu",Megamax
- http://5.13.207.232:8001/1:0:1:7865:2C4:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7865:2C4:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Megamax"tvg-id="http://www.Megamax.hu",Megamax
- http://5.13.207.232:8001/1:0:1:797D:2C7:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:797D:2C7:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Megamax"tvg-id="http://www.Megamax.hu",Megamax
- http://5.13.207.232:8001/1:0:1:7991:2C7:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7991:2C7:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Mezzo"tvg-id="http://www.Mezzo.en",Mezzo
- http://5.13.207.232:8001/1:0:1:D16:3:1:E083163:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:D16:3:1:E083163:0:0:0:	
 #EXTINF:0 tvg-name="Minimax"tvg-id="http://www.Minimax.hu",Minimax
- http://5.13.207.232:8001/1:0:1:56E:5:1:E082E09:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:56E:5:1:E082E09:0:0:0:	
 #EXTINF:0 tvg-name="Minimax"tvg-id="http://www.Minimax.hu",Minimax
- http://5.13.207.232:8001/1:0:1:7605:2BE:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7605:2BE:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Mozi+"tvg-id="http://www.MoziPlus.hu",Mozi+
- http://5.13.207.232:8001/1:0:1:766B:2BF:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:766B:2BF:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Moziverzum"tvg-id="http://www.Moziverzum.hu",Moziverzum
- http://5.13.207.232:8001/1:0:1:75B1:2BD:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:75B1:2BD:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Moziverzum"tvg-id="http://www.Moziverzum.hu",Moziverzum
- http://5.13.207.232:8001/1:0:1:75B3:2BD:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:75B3:2BD:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="MTV Hungary"tvg-id="http://www.MTVHungary.hu",MTV Hungary
- http://5.13.207.232:8001/1:0:1:77AE:2C2:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:77AE:2C2:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Music Channel"tvg-id="http://www.MusicChannel.hu",Music Channel
- http://5.13.207.232:8001/1:0:1:401:C:1:E082E7C:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:401:C:1:E082E7C:0:0:0:	
 #EXTINF:0 tvg-name="Music Channel HU"tvg-id="http://www.MusicChannel.hu",Music Channel HU
- http://5.13.207.232:8001/1:0:1:A14:5:1:E082E09:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:A14:5:1:E082E09:0:0:0:	
 #EXTINF:0 tvg-name="Muzsika TV"tvg-id="http://www.MuzsikaTV.hu",Muzsika TV
- http://5.13.207.232:8001/1:0:1:79EF:2C8:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:79EF:2C8:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Nat Geo Wild"tvg-id="http://www.NatGeoWild.hu",Nat Geo Wild
- http://5.13.207.232:8001/1:0:1:1018:3:1:E082F62:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:1018:3:1:E082F62:0:0:0:	
 #EXTINF:0 tvg-name="Nat Geo Wild"tvg-id="http://www.NatGeoWild.hu",Nat Geo Wild
- http://5.13.207.232:8001/1:0:1:77F7:2C3:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:77F7:2C3:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Nat Geo Wild"tvg-id="http://www.NatGeoWild.hu",Nat Geo Wild
- http://5.13.207.232:8001/1:0:19:12C5:26:46:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:12C5:26:46:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Nat Geo Wild HD"tvg-id="http://www.NatGeoWildHD.hu",Nat Geo Wild HD
- http://5.13.207.232:8001/1:0:19:7725:2C1:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:7725:2C1:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Nat Geo"tvg-id="http://www.NationalGeographic.hu",Nat Geo
- http://5.13.207.232:8001/1:0:1:7854:2C4:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7854:2C4:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Nat Geo"tvg-id="http://www.NationalGeographic.hu",Nat Geo
- http://5.13.207.232:8001/1:0:1:7980:2C7:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7980:2C7:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Nat Geo HD (HUN)"tvg-id="http://www.NationalGeographic.hu",Nat Geo HD (HUN)
- http://5.13.207.232:8001/1:0:1:B50:7:1:E08313F:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:B50:7:1:E08313F:0:0:0:	
 #EXTINF:0 tvg-name="NGC HD"tvg-id="http://www.NationalGeographic.hu",NGC HD
- http://5.13.207.232:8001/1:0:19:7E2:AF2:BB:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:7E2:AF2:BB:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Nat Geo HD (HUN)"tvg-id="http://www.NationalGeographic.hu",Nat Geo HD (HUN)
- http://5.13.207.232:8001/1:0:19:BCD:3:1111:E08B0A8:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:BCD:3:1111:E08B0A8:0:0:0:	
 #EXTINF:0 tvg-name="Nickelodeon Europe"tvg-id="http://www.Nickelodeon.hu",Nickelodeon Europe
- http://5.13.207.232:8001/1:0:1:1F9:1B:2C0:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:1F9:1B:2C0:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Nickelodeon"tvg-id="http://www.Nickelodeon.hu",Nickelodeon
- http://5.13.207.232:8001/1:0:1:3EA:5:1111:E082DE3:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:3EA:5:1111:E082DE3:0:0:0:	
 #EXTINF:0 tvg-name="Nickelodeon"tvg-id="http://www.Nickelodeon.hu",Nickelodeon
- http://5.13.207.232:8001/1:0:1:77AC:2C2:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:77AC:2C2:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Nickelodeon"tvg-id="http://www.Nickelodeon.hu",Nickelodeon
- http://5.13.207.232:8001/1:0:1:77CA:2C2:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:77CA:2C2:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Nick JR Hungary"tvg-id="http://www.NickJr.hu",Nick JR Hungary
- http://5.13.207.232:8001/1:0:1:3F0:5:1111:E082DE3:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:3F0:5:1111:E082DE3:0:0:0:	
 #EXTINF:0 tvg-name="Nick JR Hungary"tvg-id="http://www.NickJr.hu",Nick JR Hungary
- http://5.13.207.232:8001/1:0:1:77AD:2C2:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:77AD:2C2:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Nick JR Hungary"tvg-id="http://www.NickJr.hu",Nick JR Hungary
- http://5.13.207.232:8001/1:0:1:77CB:2C2:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:77CB:2C2:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="OzoneNetwork"tvg-id="http://www.OzoneNetwork.hu",OzoneNetwork
- http://5.13.207.232:8001/1:0:1:A82:4:1:E08AF9C:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:A82:4:1:E08AF9C:0:0:0:	
 #EXTINF:0 tvg-name="Paramount Channel Hun"tvg-id="http://www.ParamountChannel.hu",Paramount Channel Hun
- http://5.13.207.232:8001/1:0:1:1F5:1B:2C0:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:1F5:1B:2C0:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Pax TV"tvg-id="http://www.PAXTV.hu",Pax TV
- http://5.13.207.232:8001/1:0:1:402:2:1:E0831B3:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:402:2:1:E0831B3:0:0:0:	
 #EXTINF:0 tvg-name="Prime"tvg-id="http://www.Prime.hu",Prime
- http://5.13.207.232:8001/1:0:1:405:2:1:E0831B3:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:405:2:1:E0831B3:0:0:0:	
 #EXTINF:0 tvg-name="Prime"tvg-id="http://www.Prime.hu",Prime
- http://5.13.207.232:8001/1:0:1:78C0:2C5:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:78C0:2C5:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Romance TV"tvg-id="http://www.RomanceTV.hu",Romance TV
- http://5.13.207.232:8001/1:0:1:797F:2C7:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:797F:2C7:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="RTL2"tvg-id="http://www.RTL2.hu",RTL2
- http://5.13.207.232:8001/1:0:1:79EC:2C8:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:79EC:2C8:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="RTL2."tvg-id="http://www.RTL2.hu",RTL2.
- http://5.13.207.232:8001/1:0:1:79F6:2C8:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:79F6:2C8:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="RTLGold"tvg-id="http://www.RTLGold.hu",RTLGold
- http://5.13.207.232:8001/1:0:1:79F3:2C8:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:79F3:2C8:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="RTL Klub"tvg-id="http://www.RTLKlub.hu",RTL Klub
- http://5.13.207.232:8001/1:0:1:7601:2BE:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7601:2BE:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="RTL Klub HD"tvg-id="http://www.RTLKlub.hu",RTL Klub HD
- http://5.13.207.232:8001/1:0:19:7728:2C1:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:7728:2C1:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="RTL+"tvg-id="http://www.RTLplus.hu",RTL+
- http://5.13.207.232:8001/1:0:1:79ED:2C8:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:79ED:2C8:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="RTL+"tvg-id="http://www.RTLplus.hu",RTL+
- http://5.13.207.232:8001/1:0:1:79F9:2C8:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:79F9:2C8:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="RTL Spike"tvg-id="http://www.RTLSpike.hu",RTL Spike
- http://5.13.207.232:8001/1:0:1:1B6B:28:46:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:1B6B:28:46:E080000:0:0:0:	
 #EXTINF:0 tvg-name="RTL Spike"tvg-id="http://www.RTLSpike.hu",RTL Spike
- http://5.13.207.232:8001/1:0:1:77AB:2C2:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:77AB:2C2:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="RTL Spike"tvg-id="http://www.RTLSpike.hu",RTL Spike
- http://5.13.207.232:8001/1:0:1:77BF:2C2:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:77BF:2C2:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Slager TV"tvg-id="http://www.SlagerTV.hu",Slager TV
- http://5.13.207.232:8001/1:0:1:100E:3:1:E082F62:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:100E:3:1:E082F62:0:0:0:	
 #EXTINF:0 tvg-name="Slager TV"tvg-id="http://www.SlagerTV.hu",Slager TV
- http://5.13.207.232:8001/1:0:1:7859:2C4:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7859:2C4:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Slager TV"tvg-id="http://www.SlagerTV.hu",Slager TV
- http://5.13.207.232:8001/1:0:1:7985:2C7:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7985:2C7:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Slagr TV"tvg-id="http://www.SlagerTV.hu",Slagr TV
- http://5.13.207.232:8001/1:0:16:3FF:AF1:BB:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:16:3FF:AF1:BB:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Sony Max"tvg-id="http://www.SonyMax.hu",Sony Max
- http://5.13.207.232:8001/1:0:1:2B0B:B:1111:E082F3C:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:2B0B:B:1111:E082F3C:0:0:0:	
 #EXTINF:0 tvg-name="Sony Movie Channel"tvg-id="http://www.SonyMovieChannel.hu",Sony Movie Channel
- http://5.13.207.232:8001/1:0:1:2B0C:B:1111:E082F3C:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:2B0C:B:1111:E082F3C:0:0:0:	
 #EXTINF:0 tvg-name="Sorozat+"tvg-id="http://www.Sorozat.hu",Sorozat+
- http://5.13.207.232:8001/1:0:1:79EE:2C8:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:79EE:2C8:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="SpektrumHD"tvg-id="http://www.Spektrum.hu",SpektrumHD
- http://5.13.207.232:8001/1:0:1:2D7:C9A:3:EB0000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:2D7:C9A:3:EB0000:0:0:0:	
 #EXTINF:0 tvg-name="Spektrum"tvg-id="http://www.Spektrum.hu",Spektrum
- http://5.13.207.232:8001/1:0:1:77F8:2C3:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:77F8:2C3:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Spektrum"tvg-id="http://www.Spektrum.hu",Spektrum
- http://5.13.207.232:8001/1:0:1:A6E:5:1:E082E09:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:A6E:5:1:E082E09:0:0:0:	
 #EXTINF:0 tvg-name="Spektrum"tvg-id="http://www.Spektrum.hu",Spektrum
- http://5.13.207.232:8001/1:0:19:BC4:AF3:BB:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:BC4:AF3:BB:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Spektrum Home"tvg-id="http://www.SpektrumHome.hu",Spektrum Home
- http://5.13.207.232:8001/1:0:1:7666:2BF:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7666:2BF:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Spektrum Home"tvg-id="http://www.SpektrumHome.hu",Spektrum Home
- http://5.13.207.232:8001/1:0:1:B77:5:1:E082E09:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:B77:5:1:E082E09:0:0:0:	
 #EXTINF:0 tvg-name="Spiler TV"tvg-id="http://www.SpilerTV.hu",Spiler TV
- http://5.13.207.232:8001/1:0:1:7610:2BE:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7610:2BE:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Spiler TV"tvg-id="http://www.SpilerTV.hu",Spiler TV
- http://5.13.207.232:8001/1:0:1:D16:3:1:E082F62:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:D16:3:1:E082F62:0:0:0:	
 #EXTINF:0 tvg-name="Spiler TV 2"tvg-id="http://www.SpilerTV2.hu",Spiler TV 2
- http://5.13.207.232:8001/1:0:1:75B0:2BD:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:75B0:2BD:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Spiler TV 2"tvg-id="http://www.SpilerTV2.hu",Spiler TV 2
- http://5.13.207.232:8001/1:0:1:A0A:5:1:E082E09:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:A0A:5:1:E082E09:0:0:0:	
 #EXTINF:0 tvg-name="Sport 1 HD"tvg-id="http://www.Sport1.hu",Sport 1 HD
- http://5.13.207.232:8001/1:0:1:1B5B:65:1771:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:1B5B:65:1771:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Sport1"tvg-id="http://www.Sport1.hu",Sport1
- http://5.13.207.232:8001/1:0:1:7598:2BD:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7598:2BD:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Sport 1 HD"tvg-id="http://www.Sport1.hu",Sport 1 HD
- http://5.13.207.232:8001/1:0:1:A32:5:1:E082E09:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:A32:5:1:E082E09:0:0:0:	
 #EXTINF:0 tvg-name="Sport 1 HD"tvg-id="http://www.Sport1.hu",Sport 1 HD
- http://5.13.207.232:8001/1:0:19:7727:2C1:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:7727:2C1:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Sport2"tvg-id="http://www.Sport2.hu",Sport2
- http://5.13.207.232:8001/1:0:1:75FD:2BE:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:75FD:2BE:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Sport2"tvg-id="http://www.Sport2.hu",Sport2
- http://5.13.207.232:8001/1:0:1:A3C:5:1:E082E09:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:A3C:5:1:E082E09:0:0:0:	
 #EXTINF:0 tvg-name="SportM"tvg-id="http://www.SportM.hu",SportM
- http://5.13.207.232:8001/1:0:1:7860:2C4:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7860:2C4:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="SportM"tvg-id="http://www.SportM.hu",SportM
- http://5.13.207.232:8001/1:0:1:798C:2C7:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:798C:2C7:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="STORY4"tvg-id="http://www.STORY4.hu",STORY4
- http://5.13.207.232:8001/1:0:1:5F0:3:1:E082F62:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:5F0:3:1:E082F62:0:0:0:	
 #EXTINF:0 tvg-name="STORY4"tvg-id="http://www.STORY4.hu",STORY4
- http://5.13.207.232:8001/1:0:1:785D:2C4:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:785D:2C4:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Story 4"tvg-id="http://www.STORY4.hu",Story 4
- http://5.13.207.232:8001/1:0:1:7989:2C7:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7989:2C7:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Sundance HD"tvg-id="http://www.SundanceChannel.hu",Sundance HD
- http://5.13.207.232:8001/1:0:19:791F:2C6:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:791F:2C6:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="SuperTV2"tvg-id="http://www.SuperTV2.hu",SuperTV2
- http://5.13.207.232:8001/1:0:1:555:4:1:E08AF9C:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:555:4:1:E08AF9C:0:0:0:	
 #EXTINF:0 tvg-name="SuperTV2"tvg-id="http://www.SuperTV2.hu",SuperTV2
- http://5.13.207.232:8001/1:0:1:78BB:2C5:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:78BB:2C5:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="SuperTV2"tvg-id="http://www.SuperTV2.hu",SuperTV2
- http://5.13.207.232:8001/1:0:16:FB1:AF4:BB:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:16:FB1:AF4:BB:E080000:0:0:0:	
 #EXTINF:0 tvg-name="TLC"tvg-id="http://www.TLC.hu",TLC
- http://5.13.207.232:8001/1:0:1:1004:5:1:E082E09:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:1004:5:1:E082E09:0:0:0:	
 #EXTINF:0 tvg-name="TLC"tvg-id="http://www.TLC.hu",TLC
- http://5.13.207.232:8001/1:0:1:78B6:2C5:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:78B6:2C5:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Travel Channel"tvg-id="http://www.TravelChannel.hu",Travel Channel
- http://5.13.207.232:8001/1:0:1:7984:2C7:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7984:2C7:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Travel Channel"tvg-id="http://www.TravelChannelHD.eu",Travel Channel
- http://5.13.207.232:8001/1:0:1:7858:2C4:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7858:2C4:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="TV2"tvg-id="http://www.tv2.hu",TV2
- http://5.13.207.232:8001/1:0:1:7602:2BE:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7602:2BE:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="TV2 HD"tvg-id="http://www.tv2.hu",TV2 HD
- http://5.13.207.232:8001/1:0:1:FBE:D:1:E082E2F:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:FBE:D:1:E082E2F:0:0:0:	
 #EXTINF:0 tvg-name="TV 4"tvg-id="http://www.TV4.hu",TV 4
- http://5.13.207.232:8001/1:0:1:A50:5:1:E082E09:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:A50:5:1:E082E09:0:0:0:	
 #EXTINF:0 tvg-name="TV Paprika"tvg-id="http://www.TVPaprika.hu",TV Paprika
- http://5.13.207.232:8001/1:0:1:60E:4:1:E08AF9C:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:60E:4:1:E08AF9C:0:0:0:	
 #EXTINF:0 tvg-name="TV Paprika"tvg-id="http://www.TVPaprika.hu",TV Paprika
- http://5.13.207.232:8001/1:0:1:75A0:2BD:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:75A0:2BD:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="TV Paprika"tvg-id="http://www.TVPaprika.hu",TV Paprika
- http://5.13.207.232:8001/1:0:1:A28:5:1:E082E09:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:A28:5:1:E082E09:0:0:0:	
 #EXTINF:0 tvg-name="Viasat 3"tvg-id="http://www.Viasat3.hu",Viasat 3
- http://5.13.207.232:8001/1:0:1:2B09:B:1111:E082F3C:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:2B09:B:1111:E082F3C:0:0:0:	
 #EXTINF:0 tvg-name="Viasat3"tvg-id="http://www.Viasat3.hu",Viasat3
- http://5.13.207.232:8001/1:0:1:7805:2C3:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7805:2C3:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Viasat 6"tvg-id="http://www.VIASAT6.hu",Viasat 6
- http://5.13.207.232:8001/1:0:1:2B0A:B:1111:E082F3C:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:2B0A:B:1111:E082F3C:0:0:0:	
 #EXTINF:0 tvg-name="Viasat Explore"tvg-id="http://www.ViasatExplorer.hu",Viasat Explore
- http://5.13.207.232:8001/1:0:1:78B8:2C5:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:78B8:2C5:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Viasat Explore"tvg-id="http://www.ViasatExplorer.hu",Viasat Explore
- http://5.13.207.232:8001/1:0:1:B87:7:1:E08313F:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:B87:7:1:E08313F:0:0:0:	
 #EXTINF:0 tvg-name="Viasat History"tvg-id="http://www.ViasatHistory.hu",Viasat History
- http://5.13.207.232:8001/1:0:1:7856:2C4:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7856:2C4:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Viasat Nature"tvg-id="http://www.ViasatNature.hu",Viasat Nature
- http://5.13.207.232:8001/1:0:1:622:3:1:E082F62:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:622:3:1:E082F62:0:0:0:	
 #EXTINF:0 tvg-name="Viasat Nature"tvg-id="http://www.ViasatNature.hu",Viasat Nature
- http://5.13.207.232:8001/1:0:19:FBE:AF4:BB:E08B1B3:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:FBE:AF4:BB:E08B1B3:0:0:0:	
 #EXTINF:0 tvg-name="Zenebutik"tvg-id="http://www.Zenebutik.hu",Zenebutik
- http://5.13.207.232:8001/1:0:1:7862:2C4:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7862:2C4:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Zenebutik"tvg-id="http://www.Zenebutik.hu",Zenebutik
- http://5.13.207.232:8001/1:0:1:7867:2C4:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7867:2C4:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Zenebutik"tvg-id="http://www.Zenebutik.hu",Zenebutik
- http://5.13.207.232:8001/1:0:1:798E:2C7:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:798E:2C7:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Zenebutik"tvg-id="http://www.Zenebutik.hu",Zenebutik
- http://5.13.207.232:8001/1:0:1:7993:2C7:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:7993:2C7:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="CBS Reality"tvg-id="http://www.ZoneReality.hu",CBS Reality
- http://5.13.207.232:8001/1:0:1:78B9:2C5:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:78B9:2C5:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="CBS Reality"tvg-id="http://www.ZoneReality.hu",CBS Reality
- http://5.13.207.232:8001/1:0:1:FC0:AF4:BB:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:FC0:AF4:BB:E080000:0:0:0:	
 #EXTINF:0 tvg-name="MTV Music"tvg-id="http://www.",MTV Music
- http://5.13.207.232:8001/1:0:1:79F0:2C8:600:E080000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:79F0:2C8:600:E080000:0:0:0:	
 #EXTINF:0 tvg-name="National Geographic Channel"tvg-id="http://www.NationalGeographic.hu",National Geographic Channel
- http://5.13.207.232:8001/1:0:16:313:C94:3:EB0000:0:0:0:	
+ http://79.117.222.55:8001/1:0:16:313:C94:3:EB0000:0:0:0:	
 #EXTINF:0 tvg-name="Mezzo"tvg-id="http://www.Mezzo.en",Mezzo
- http://5.13.207.232:8001/1:0:19:138F:30:36:CE40000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:138F:30:36:CE40000:0:0:0:	
 #EXTINF:0 tvg-name="VH1"tvg-id="http://www.VH1.eu",VH1
- http://5.13.207.232:8001/1:0:19:138E:30:36:CE40000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:138E:30:36:CE40000:0:0:0:	
 #EXTINF:0 tvg-name="Discovery World"tvg-id="http://www.DiscoveryWorld.hu",Discovery World
- http://5.13.207.232:8001/1:0:1:24:2:1:1863167:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:24:2:1:1863167:0:0:0:	
 #EXTINF:0 tvg-name="Discovery World"tvg-id="http://www.DiscoveryWorld.hu",Discovery World
- http://5.13.207.232:8001/1:0:1:3E8:1:5E:31B022:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:3E8:1:5E:31B022:0:0:0:	
 #EXTINF:0 tvg-name="ID Xtra"tvg-id="http://www.IDXtra.hu",ID Xtra
- http://5.13.207.232:8001/1:0:1:190:1:5E:30B022:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:190:1:5E:30B022:0:0:0:	
 #EXTINF:0 tvg-name="Duna TV"tvg-id="http://www.Duna.hu",Duna TV
- http://5.13.207.232:8001/1:0:19:67:1838:9E:5A0000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:67:1838:9E:5A0000:0:0:0:	
 #EXTINF:0 tvg-name="Duna TV"tvg-id="http://www.Duna.hu",Duna TV
- http://5.13.207.232:8001/1:0:19:71:1838:9E:5A0000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:71:1838:9E:5A0000:0:0:0:	
 #EXTINF:0 tvg-name="Duna World"tvg-id="http://www.Duna2.hu",Duna World
- http://5.13.207.232:8001/1:0:16:69:1838:9E:5A0000:0:0:0:	
+ http://79.117.222.55:8001/1:0:16:69:1838:9E:5A0000:0:0:0:	
 #EXTINF:0 tvg-name="FOX"tvg-id="http://www.Fox.hu",FOX
- http://5.13.207.232:8001/1:0:1:10:1A90:9E:5A0000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:10:1A90:9E:5A0000:0:0:0:	
 #EXTINF:0 tvg-name="m1 HD"tvg-id="http://www.m1.hu",m1 HD
- http://5.13.207.232:8001/1:0:19:65:1838:9E:5A0000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:65:1838:9E:5A0000:0:0:0:	
 #EXTINF:0 tvg-name="m1 HD"tvg-id="http://www.m1.hu",m1 HD
- http://5.13.207.232:8001/1:0:19:6F:1838:9E:5A0000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:6F:1838:9E:5A0000:0:0:0:	
 #EXTINF:0 tvg-name="m2 HD"tvg-id="http://www.m2.hu",m2 HD
- http://5.13.207.232:8001/1:0:19:66:1838:9E:5A0000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:66:1838:9E:5A0000:0:0:0:	
 #EXTINF:0 tvg-name="m2 HD"tvg-id="http://www.m2.hu",m2 HD
- http://5.13.207.232:8001/1:0:19:70:1838:9E:5A0000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:70:1838:9E:5A0000:0:0:0:	
 #EXTINF:0 tvg-name="M3 Anno"tvg-id="http://www.m3.hu",M3 Anno
- http://5.13.207.232:8001/1:0:1:6E:1838:9E:5A0000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:6E:1838:9E:5A0000:0:0:0:	
 #EXTINF:0 tvg-name="M4 Sport"tvg-id="http://www.M4Sport.hu",M4 Sport
- http://5.13.207.232:8001/1:0:19:68:1838:9E:5A0000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:68:1838:9E:5A0000:0:0:0:	
 #EXTINF:0 tvg-name="M4 Sport"tvg-id="http://www.M4Sport.hu",M4 Sport
- http://5.13.207.232:8001/1:0:19:72:1838:9E:5A0000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:72:1838:9E:5A0000:0:0:0:	
 #EXTINF:0 tvg-name="m5 HD"tvg-id="http://www.m5.hu",m5 HD
- http://5.13.207.232:8001/1:0:19:6A:1838:9E:5A0000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:6A:1838:9E:5A0000:0:0:0:	
 #EXTINF:0 tvg-name="m5 HD"tvg-id="http://www.m5.hu",m5 HD
- http://5.13.207.232:8001/1:0:19:74:1838:9E:5A0000:0:0:0:	
+ http://79.117.222.55:8001/1:0:19:74:1838:9E:5A0000:0:0:0:	
 #EXTINF:0 tvg-name="Duna TV"tvg-id="http://www.Duna.hu",Duna TV
- http://5.13.207.232:8001/1:0:1:2019:1464:A7:13B0000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:2019:1464:A7:13B0000:0:0:0:	
 #EXTINF:0 tvg-name="M4 Sport"tvg-id="http://www.M4Sport.hu",M4 Sport
- http://5.13.207.232:8001/1:0:1:21A7:1478:A7:13B0000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:21A7:1478:A7:13B0000:0:0:0:	
 #EXTINF:0 tvg-name="M4 Sport"tvg-id="http://www.M4Sport.hu",M4 Sport
- http://5.13.207.232:8001/1:0:1:51A:3:64:DE80000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:51A:3:64:DE80000:0:0:0:	
 #EXTINF:0 tvg-name="M4 Sport"tvg-id="http://www.M4Sport.hu",M4 Sport
- http://5.13.207.232:8001/1:0:1:57A:4:64:DE80000:0:0:0:	
+ http://79.117.222.55:8001/1:0:1:57A:4:64:DE80000:0:0:0:	
+
