@@ -31,17 +31,17 @@
  http://5.13.207.232:8001/1:0:1:1F6:1B:2C0:E080000:0:0:0:	
 #EXTINF:0 tvg-name="Cool"tvg-id="http://www.Cool.hu",Cool
  http://5.13.207.232:8001/1:0:1:7664:2BF:600:E080000:0:0:0:
-#EXTINF:0 tvg-name="Da Vinci Learning"tvg-id="http://www.DaVinciLearning.hu",Da Vinci Learning
+#EXTINF:0 tvg-name="Da Vinci Learning"tvg-id="http://www.DaVinciLearning.hu",Da Vinci Learning1
  http://5.13.207.232:8001/1:0:1:785C:2C4:600:E080000:0:0:0:
-#EXTINF:0 tvg-name="Da Vinci Learning"tvg-id="http://www.DaVinciLearning.hu",Da Vinci Learning
+#EXTINF:0 tvg-name="Da Vinci Learning"tvg-id="http://www.DaVinciLearning.hu",Da Vinci Learning2
  http://5.13.207.232:8001/1:0:1:7988:2C7:600:E080000:0:0:0:
-#EXTINF:0 tvg-name="Da Vinci Learning"tvg-id="http://www.DaVinciLearning.hu",Da Vinci Learning
+#EXTINF:0 tvg-name="Da Vinci Learning"tvg-id="http://www.DaVinciLearning.hu",Da Vinci Learning3
  http://5.13.207.232:8001/1:0:1:7988:2C7:600:E080000:0:0:0:
-#EXTINF:0 tvg-name="Da Vinci Learning"tvg-id="http://www.DaVinciLearning.hu",Da Vinci Learning
+#EXTINF:0 tvg-name="Da Vinci Learning"tvg-id="http://www.DaVinciLearning.hu",Da Vinci Learning4
  http://5.13.207.232:8001/1:0:1:B90:7:1:E082E56:0:0:0:
-#EXTINF:0 tvg-name="Da Vinci Learning"tvg-id="http://www.DaVinciLearning.hu",Da Vinci Learning
+#EXTINF:0 tvg-name="Da Vinci Learning"tvg-id="http://www.DaVinciLearning.hu",Da Vinci Learning5
  http://5.13.207.232:8001/1:0:1:B90:7:1:E08313F:0:0:0:
-#EXTINF:0 tvg-name="Da Vinci Learning"tvg-id="http://www.DaVinciLearning.hu",Da Vinci Learning
+#EXTINF:0 tvg-name="Da Vinci Learning"tvg-id="http://www.DaVinciLearning.hu",Da Vinci Learning6
  http://5.13.207.232:8001/1:0:1:B90:7:1:E08313F:0:0:0:
 #EXTINF:0 tvg-name="DIGI Animal World"tvg-id="http://www.DigiAnimalWorld.hu",DIGI Animal World
  http://5.13.207.232:8001/1:0:1:177A:7:1:E082E56:0:0:0:
