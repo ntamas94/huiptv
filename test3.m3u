@@ -1,507 +1,507 @@
 #EXTM3U 
 #EXTINF: -1 tvg-id="http://www.tv2.hu" tvg-name="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/TV2_logo.png" group-title="Ungrouped", TV2
-http://hutv.ddns.net:8001/1:0:1:7602:2BE:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7602:2BE:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.tv2.hu" tvg-name="TV2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TV2_HD.png" group-title="Ungrouped", TV2 HD
-http://hutv.ddns.net:8001/1:0:1:FBE:D:1:E082E2F:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:FBE:D:1:E082E2F:0:0:0:
 #EXTINF: -1 tvg-id="http://www.SuperTV2.hu" tvg-name="SuperTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png" group-title="Ungrouped", SuperTV2
-http://hutv.ddns.net:8001/1:0:1:555:4:1:E08AF9C:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:555:4:1:E08AF9C:0:0:0:
 #EXTINF: -1 tvg-id="http://www.SuperTV2.hu" tvg-name="SuperTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png" group-title="Ungrouped", SuperTV2
-http://hutv.ddns.net:8001/1:0:16:FB1:AF4:BB:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:16:FB1:AF4:BB:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.SuperTV2.hu" tvg-name="SuperTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Super_TV2_logo.png" group-title="Ungrouped", SuperTV2
-http://hutv.ddns.net:8001/1:0:1:78BB:2C5:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:78BB:2C5:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.RTLKlub.hu" tvg-name="RTL Klub" tvg-logo="https://alfoldiregiomagazin.hu/wp-content/uploads/2018/04/rtl-logo.png" group-title="Ungrouped", RTL Klub
-http://hutv.ddns.net:8001/1:0:1:7601:2BE:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7601:2BE:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.RTLplus.hu" tvg-name="RTL+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/RTL%2B_logo.svg" group-title="Ungrouped", RTL+
-http://hutv.ddns.net:8001/1:0:1:79ED:2C8:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:79ED:2C8:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.RTLplus.hu" tvg-name="RTL+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/RTL%2B_logo.svg" group-title="Ungrouped", RTL+
-http://hutv.ddns.net:8001/1:0:1:79F9:2C8:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:79F9:2C8:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.RTL2.hu" tvg-name="RTL2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/RTL_II_Hungary_logo.svg" group-title="Ungrouped", RTL2
-http://hutv.ddns.net:8001/1:0:1:79EC:2C8:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:79EC:2C8:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.RTL2.hu" tvg-name="RTL2." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/RTL_II_Hungary_logo.svg" group-title="Ungrouped", RTL2.
-http://hutv.ddns.net:8001/1:0:1:79F6:2C8:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:79F6:2C8:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.RTLKlub.hu" tvg-name="RTL Klub HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/RTL_Klub_HD.png" group-title="Ungrouped", RTL Klub HD
-http://hutv.ddns.net:8001/1:0:19:7728:2C1:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:7728:2C1:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.RTLGold.hu" tvg-name="RTLGold" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/RTL_Gold_logo.jpg" group-title="Ungrouped", RTLGold
-http://hutv.ddns.net:8001/1:0:1:79F3:2C8:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:79F3:2C8:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.RTLSpike.hu" tvg-name="RTL Spike" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/RTL_Spike_Hungary_logo.png" group-title="Ungrouped", RTL Spike
-http://hutv.ddns.net:8001/1:0:1:77AB:2C2:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:77AB:2C2:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.RTLSpike.hu" tvg-name="RTL Spike" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/RTL_Spike_Hungary_logo.png" group-title="Ungrouped", RTL Spike
-http://hutv.ddns.net:8001/1:0:1:1B6B:28:46:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:1B6B:28:46:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.RTLSpike.hu" tvg-name="RTL Spike" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/RTL_Spike_Hungary_logo.png" group-title="Ungrouped", RTL Spike
-http://hutv.ddns.net:8001/1:0:1:77BF:2C2:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:77BF:2C2:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.HBO.hu" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Ungrouped", HBO
-http://hutv.ddns.net:8001/1:0:1:7595:2BD:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7595:2BD:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.HBO.hu" tvg-name="HBO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="Ungrouped", HBO
-http://hutv.ddns.net:8001/1:0:1:A64:5:1:E082E09:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:A64:5:1:E082E09:0:0:0:
 #EXTINF: -1 tvg-id="http://www.HBO.hu" tvg-name="HBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/HBO_HD_logo.png" group-title="Ungrouped", HBO HD
-http://hutv.ddns.net:8001/1:0:19:791D:2C6:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:791D:2C6:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.HBO2.hu" tvg-name="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="Ungrouped", HBO2
-http://hutv.ddns.net:8001/1:0:1:A46:5:1:E082E09:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:A46:5:1:E082E09:0:0:0:
 #EXTINF: -1 tvg-id="http://www.HBO2.hu" tvg-name="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="Ungrouped", HBO2
-http://hutv.ddns.net:8001/1:0:1:77F1:2C3:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:77F1:2C3:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.HBO2.hu" tvg-name="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="Ungrouped", HBO2
-http://hutv.ddns.net:8001/1:0:1:BC3:AF3:BB:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:BC3:AF3:BB:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.HBO2.hu" tvg-name="HBO2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="Ungrouped", HBO2
-http://hutv.ddns.net:8001/1:0:1:A46:5:1:E082E09:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:A46:5:1:E082E09:0:0:0:
 #EXTINF: -1 tvg-id="http://www.ComedyCentral.hu" tvg-name="Comedy Central Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/Comedy_Central_2018.svg" group-title="Ungrouped", Comedy Central Hungary
-http://hutv.ddns.net:8001/1:0:1:1F7:1B:2C0:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:1F7:1B:2C0:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.ComedyCentralFamily.hu" tvg-name="Comedy Central Family" tvg-logo="https://www.digiportal.hu/wp-content/uploads/2017/07/comedy-central-family-logo.jpg" group-title="Ungrouped", Comedy Central Family
-http://hutv.ddns.net:8001/1:0:1:1F6:1B:2C0:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:1F6:1B:2C0:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.ComedyCentralExtra.hu" tvg-name="Comedy Central Extra" tvg-logo="https://m.blog.hu/co/comment/image//ccextra_logo.jpg" group-title="Ungrouped", Comedy Central Extra
-http://hutv.ddns.net:8001/1:0:1:3F1:5:1111:E082DE3:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:3F1:5:1111:E082DE3:0:0:0:
 #EXTINF: -1 tvg-id="http://www.ComedyCentralExtra.hu" tvg-name="Comedy Central Extra" tvg-logo="https://m.blog.hu/co/comment/image//ccextra_logo.jpg" group-title="Ungrouped", Comedy Central Extra
-http://hutv.ddns.net:8001/1:0:1:1F8:1B:2C0:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:1F8:1B:2C0:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.HBOComedy.hu" tvg-name="HBO3 HU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/HBO3_gradient.PNG" group-title="Ungrouped", HBO3 HU
-http://hutv.ddns.net:8001/1:0:1:D98:C:1:E082E7C:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:D98:C:1:E082E7C:0:0:0:
 #EXTINF: -1 tvg-id="http://hudeepg.ingyenweb.hu/guide.xml" tvg-name="AMCHu" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/AMC_logo_2016.svg" group-title="Ungrouped", AMCHu
-http://hutv.ddns.net:8001/1:0:1:7981:2C7:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7981:2C7:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://hudeepg.ingyenweb.hu/guide.xml" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Ungrouped", Animal Planet
-http://hutv.ddns.net:8001/1:0:1:77F0:2C3:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:77F0:2C3:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://hudeepg.ingyenweb.hu/guide.xml" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/AnimalPlanet_HD_PrimaryLockup2_RGB_Wiki_2.svg" group-title="Ungrouped", Animal Planet HD
-http://hutv.ddns.net:8001/1:0:19:7923:2C6:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:7923:2C6:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.MagyarATV.hu" tvg-name="ATV" group-title="Ungrouped", ATV
-http://hutv.ddns.net:8001/1:0:1:5E8:4:1:E08AF9C:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:5E8:4:1:E08AF9C:0:0:0:
 #EXTINF: -1 tvg-id="http://www.MagyarATV.hu" tvg-name="ATV" group-title="Ungrouped", ATV
-http://hutv.ddns.net:8001/1:0:1:7603:2BE:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7603:2BE:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.AXNBlack.hu" tvg-name="AXN Black" group-title="Ungrouped", AXN Black
-http://hutv.ddns.net:8001/1:0:1:2B08:B:1111:E082F3C:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:2B08:B:1111:E082F3C:0:0:0:
 #EXTINF: -1 tvg-id="http://www.AXN.hu" tvg-name="AXN CE" group-title="Ungrouped", AXN CE
-http://hutv.ddns.net:8001/1:0:1:2AFC:B:1111:E082F3C:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:2AFC:B:1111:E082F3C:0:0:0:
 #EXTINF: -1 tvg-id="http://www.BBCEarth.hu" tvg-name="bbcearth" group-title="Ungrouped", bbcearth
-http://hutv.ddns.net:8001/1:0:19:1C06:29:46:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:1C06:29:46:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Boomerang.hu" tvg-name="Boomerang" group-title="Ungrouped", Boomerang
-http://hutv.ddns.net:8001/1:0:1:7804:2C3:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7804:2C3:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.CartoonNetworkTCM(3-21).hu" tvg-name="Cartoon Network / TCM (3-21)" group-title="Ungrouped", Cartoon Network / TCM (3-21)
-http://hutv.ddns.net:8001/1:0:1:797E:2C7:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:797E:2C7:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.CartoonNetwork.hu" tvg-name="Cartoon Network Central & Eastern Europe" group-title="Ungrouped", Cartoon Network Central & Eastern Europe
-http://hutv.ddns.net:8001/1:0:1:797E:2C7:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:797E:2C7:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.ZoneReality.hu" tvg-name="CBS Reality" group-title="Ungrouped", CBS Reality
-http://hutv.ddns.net:8001/1:0:1:78B9:2C5:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:78B9:2C5:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.ZoneReality.hu" tvg-name="CBS Reality" group-title="Ungrouped", CBS Reality
-http://hutv.ddns.net:8001/1:0:1:FC0:AF4:BB:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:FC0:AF4:BB:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Cinemax.hu" tvg-name="Cinemax" group-title="Ungrouped", Cinemax
-http://hutv.ddns.net:8001/1:0:1:77F5:2C3:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:77F5:2C3:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Cinemax2.hu" tvg-name="Cinemax2" group-title="Ungrouped", Cinemax2
-http://hutv.ddns.net:8001/1:0:1:78C2:2C5:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:78C2:2C5:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Cool.hu" tvg-name="Cool" group-title="Ungrouped", Cool
-http://hutv.ddns.net:8001/1:0:1:5fa:2c24:e26:820000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:5fa:2c24:e26:820000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DaVinciLearning.hu" tvg-name="Da Vinci Learning" group-title="Ungrouped", Da Vinci Learning1
-http://hutv.ddns.net:8001/1:0:1:785C:2C4:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:785C:2C4:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DaVinciLearning.hu" tvg-name="Da Vinci Learning" group-title="Ungrouped", Da Vinci Learning2
-http://hutv.ddns.net:8001/1:0:1:7988:2C7:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7988:2C7:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DaVinciLearning.hu" tvg-name="Da Vinci Learning" group-title="Ungrouped", Da Vinci Learning3
-http://hutv.ddns.net:8001/1:0:1:7988:2C7:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7988:2C7:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DaVinciLearning.hu" tvg-name="Da Vinci Learning" group-title="Ungrouped", Da Vinci Learning4
-http://hutv.ddns.net:8001/1:0:1:B90:7:1:E082E56:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:B90:7:1:E082E56:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DaVinciLearning.hu" tvg-name="Da Vinci Learning" group-title="Ungrouped", Da Vinci Learning5
-http://hutv.ddns.net:8001/1:0:1:B90:7:1:E08313F:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:B90:7:1:E08313F:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DaVinciLearning.hu" tvg-name="Da Vinci Learning" group-title="Ungrouped", Da Vinci Learning6
-http://hutv.ddns.net:8001/1:0:1:B90:7:1:E08313F:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:B90:7:1:E08313F:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DigiAnimalWorld.hu" tvg-name="DIGI Animal World" group-title="Ungrouped", DIGI Animal World
-http://hutv.ddns.net:8001/1:0:1:177A:7:1:E082E56:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:177A:7:1:E082E56:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DigiFilm.hu" tvg-name="DIGI Film HU" group-title="Ungrouped", DIGI Film HU
-http://hutv.ddns.net:8001/1:0:1:41A:3:1:E083163:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:41A:3:1:E083163:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DigiSport1.hu" tvg-name="DIGI Sport 1 HD HU" group-title="Ungrouped", DIGI Sport 1 HD HU
-http://hutv.ddns.net:8001/1:0:1:FB4:D:1:E082E2F:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:FB4:D:1:E082E2F:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DigiSport1.hu" tvg-name="DIGI Sport 1 HU" group-title="Ungrouped", DIGI Sport 1 HU
-http://hutv.ddns.net:8001/1:0:1:49C:3:1:E082F62:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:49C:3:1:E082F62:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DigiSport1.hu" tvg-name="DIGI Sport 1 HU" group-title="Ungrouped", DIGI Sport 1 HU
-http://hutv.ddns.net:8001/1:0:19:FB4:D:1:E082E2F:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:FB4:D:1:E082E2F:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DigiSport2.hu" tvg-name="DIGI Sport 2 HD HU" group-title="Ungrouped", DIGI Sport 2 HD HU
-http://hutv.ddns.net:8001/1:0:1:4A3:3:1:E082F62:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:4A3:3:1:E082F62:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DigiSport2.hu" tvg-name="DIGI Sport 2 HD HU" group-title="Ungrouped", DIGI Sport 2 HD HU
-http://hutv.ddns.net:8001/1:0:1:FDC:D:1:E082E2F:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:FDC:D:1:E082E2F:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DigiSport2.hu" tvg-name="Digi Sport 2 HD HU" group-title="Ungrouped", Digi Sport 2 HD HU
-http://hutv.ddns.net:8001/1:0:19:FDC:D:1:E082E2F:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:FDC:D:1:E082E2F:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DigiSport2.hu" tvg-name="DIGI Sport 2 HU" group-title="Ungrouped", DIGI Sport 2 HU
-http://hutv.ddns.net:8001/1:0:1:FDC:D:1:E082E2F:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:FDC:D:1:E082E2F:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DigiWorld.hu" tvg-name="DIGI World HD HU" group-title="Ungrouped", DIGI World HD HU
-http://hutv.ddns.net:8001/1:0:1:424:3:1:E082F62:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:424:3:1:E082F62:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DigiWorld.hu" tvg-name="DIGI World HD HU" group-title="Ungrouped", DIGI World HD HU
-http://hutv.ddns.net:8001/1:0:1:FD2:D:1:E082E2F:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:FD2:D:1:E082E2F:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DigiLife.hu" tvg-name="DigiLife" group-title="Ungrouped", DigiLife
-http://hutv.ddns.net:8001/1:0:1:403:2:1:E0831B3:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:403:2:1:E0831B3:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DigiSport3.hu" tvg-name="DigiSport3" group-title="Ungrouped", DigiSport3
-http://hutv.ddns.net:8001/1:0:1:407:3:1:E082F62:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:407:3:1:E082F62:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DiscoveryChannel.hu" tvg-name="Discovery Channel" group-title="Ungrouped", Discovery Channel
-http://hutv.ddns.net:8001/1:0:1:78B7:2C5:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:78B7:2C5:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DiscoveryHDShowcase.hu" tvg-name="Discovery HD Showcase" group-title="Ungrouped", Discovery HD Showcase
-http://hutv.ddns.net:8001/1:0:19:1006:29:46:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:1006:29:46:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DiscoveryHDShowcase.hu" tvg-name="Discovery HD Showcase" group-title="Ungrouped", Discovery HD Showcase
-http://hutv.ddns.net:8001/1:0:19:7921:2C6:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:7921:2C6:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.InvestigationDiscovery.hu" tvg-name="Discovery ID" group-title="Ungrouped", Discovery ID
-http://hutv.ddns.net:8001/1:0:1:785B:2C4:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:785B:2C4:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DiscoveryScience.hu" tvg-name="Discovery Science" group-title="Ungrouped", Discovery Science
-http://hutv.ddns.net:8001/1:0:1:77F2:2C3:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:77F2:2C3:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DiscoveryWorld.hu" tvg-name="Discovery World" group-title="Ungrouped", Discovery World
-http://hutv.ddns.net:8001/1:0:1:24:2:1:1863167:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:24:2:1:1863167:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DiscoveryWorld.hu" tvg-name="Discovery World" group-title="Ungrouped", Discovery World
-http://hutv.ddns.net:8001/1:0:1:3E8:1:5E:31B022:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:3E8:1:5E:31B022:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DisneyChannel.hu" tvg-name="Disney Channel" group-title="Ungrouped", Disney Channel
-http://hutv.ddns.net:8001/1:0:1:77EF:2C3:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:77EF:2C3:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DisneyChannel.hu" tvg-name="Disney Channel" group-title="Ungrouped", Disney Channel
-http://hutv.ddns.net:8001/1:0:1:7803:2C3:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7803:2C3:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DOQ.hu" tvg-name="DOQ" group-title="Ungrouped", DOQ
-http://hutv.ddns.net:8001/1:0:1:79FB:2C8:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:79FB:2C8:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DOQ.hu" tvg-name="DOQ" group-title="Ungrouped", DOQ
-http://hutv.ddns.net:8001/1:0:1:79FE:2C8:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:79FE:2C8:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DOQ.hu" tvg-name="DOQ" group-title="Ungrouped", DOQ
-http://hutv.ddns.net:8001/1:0:1:7A00:2C8:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7A00:2C8:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DTX.hu" tvg-name="DTX" group-title="Ungrouped", DTX
-http://hutv.ddns.net:8001/1:0:1:77FA:2C3:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:77FA:2C3:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DTX.hu" tvg-name="DTX" group-title="Ungrouped", DTX
-http://hutv.ddns.net:8001/1:0:1:BBA:2:5E:E08B00F:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:BBA:2:5E:E08B00F:0:0:0:
 #EXTINF: -1 tvg-id="http://www.DuckTV.cz" tvg-name="Duck TV" group-title="Ungrouped", Duck TV
-http://hutv.ddns.net:8001/1:0:1:77F9:2C3:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:77F9:2C3:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Duna.hu" tvg-name="Duna HD" group-title="Ungrouped", Duna HD
-http://hutv.ddns.net:8001/1:0:19:7919:2C6:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:7919:2C6:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Duna.hu" tvg-name="Duna TV" group-title="Ungrouped", Duna TV
-http://hutv.ddns.net:8001/1:0:1:78C4:2C5:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:78C4:2C5:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Duna.hu" tvg-name="Duna TV" group-title="Ungrouped", Duna TV
-http://hutv.ddns.net:8001/1:0:1:78C6:2C5:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:78C6:2C5:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Duna.hu" tvg-name="Duna TV" group-title="Ungrouped", Duna TV
-http://hutv.ddns.net:8001/1:0:1:D20:5:1:E082E09:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:D20:5:1:E082E09:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Duna.hu" tvg-name="Duna TV" group-title="Ungrouped", Duna TV
-http://hutv.ddns.net:8001/1:0:19:67:1838:9E:5A0000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:67:1838:9E:5A0000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Duna.hu" tvg-name="Duna TV" group-title="Ungrouped", Duna TV
-http://hutv.ddns.net:8001/1:0:19:71:1838:9E:5A0000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:71:1838:9E:5A0000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Duna.hu" tvg-name="Duna TV" group-title="Ungrouped", Duna TV
-http://hutv.ddns.net:8001/1:0:1:2019:1464:A7:13B0000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:2019:1464:A7:13B0000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Duna2.hu" tvg-name="Duna World" group-title="Ungrouped", Duna World
-http://hutv.ddns.net:8001/1:0:1:7608:2BE:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7608:2BE:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Duna2.hu" tvg-name="Duna World" group-title="Ungrouped", Duna World
-http://hutv.ddns.net:8001/1:0:16:69:1838:9E:5A0000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:16:69:1838:9E:5A0000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.EchoTV.hu" tvg-name="Echo TV" group-title="Ungrouped", Echo TV
-http://hutv.ddns.net:8001/1:0:1:7604:2BE:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7604:2BE:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Eurosport1.hu" tvg-name="Eurosport" group-title="Ungrouped", Eurosport
-http://hutv.ddns.net:8001/1:0:1:78B5:2C5:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:78B5:2C5:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Eurosport1.hu" tvg-name="Eurosport 1 HD" group-title="Ungrouped", Eurosport 1 HD
-http://hutv.ddns.net:8001/1:0:19:7DF:AF2:BB:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:7DF:AF2:BB:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Eurosport2.hu" tvg-name="Eurosport 2" group-title="Ungrouped", Eurosport 2
-http://hutv.ddns.net:8001/1:0:1:77FE:2C3:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:77FE:2C3:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Eurosport2.hu" tvg-name="Eurosport 2" group-title="Ungrouped", Eurosport 2
-http://hutv.ddns.net:8001/1:0:1:77FF:2C3:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:77FF:2C3:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Eurosport2.hu" tvg-name="Eurosport 2" group-title="Ungrouped", Eurosport 2
-http://hutv.ddns.net:8001/1:0:1:B22:7:1:E08313F:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:B22:7:1:E08313F:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Eurosport2.hu" tvg-name="Eurosport 2 HD" group-title="Ungrouped", Eurosport 2 HD
-http://hutv.ddns.net:8001/1:0:19:7E0:AF2:BB:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:7E0:AF2:BB:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.ExtremeSports.hu" tvg-name="Extreme Sports Channel" group-title="Ungrouped", Extreme Sports Channel
-http://hutv.ddns.net:8001/1:0:1:77ED:2C3:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:77ED:2C3:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.FEM3.hu" tvg-name="FEM3" group-title="Ungrouped", FEM3
-http://hutv.ddns.net:8001/1:0:1:78BA:2C5:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:78BA:2C5:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.FEM3.hu" tvg-name="FEM3" group-title="Ungrouped", FEM3
-http://hutv.ddns.net:8001/1:0:1:78C7:2C5:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:78C7:2C5:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.FEM3.hu" tvg-name="Fem3 HU" group-title="Ungrouped", Fem3 HU
-http://hutv.ddns.net:8001/1:0:16:FB2:AF4:BB:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:16:FB2:AF4:BB:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Film4.hu" tvg-name="Film 4" group-title="Ungrouped", Film 4
-http://hutv.ddns.net:8001/1:0:1:CEE:3:1:E082F62:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:CEE:3:1:E082F62:0:0:0:
 #EXTINF: -1 tvg-id="http://www.FilmCafe.hu" tvg-name="Film Cafe" group-title="Ungrouped", Film Cafe
-http://hutv.ddns.net:8001/1:0:1:7663:2BF:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7663:2BF:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.FilmMania.hu" tvg-name="Film Mania" group-title="Ungrouped", Film Mania
-http://hutv.ddns.net:8001/1:0:1:76CF:2C0:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:76CF:2C0:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.FilmPlus.hu" tvg-name="Film+" group-title="Ungrouped", Film+
-http://hutv.ddns.net:8001/1:0:1:75FB:2BE:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:75FB:2BE:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Filmbox.hu" tvg-name="Filmbox" group-title="Ungrouped", Filmbox
-http://hutv.ddns.net:8001/1:0:1:3F3:5:1111:E082DE3:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:3F3:5:1111:E082DE3:0:0:0:
 #EXTINF: -1 tvg-id="http://www.FilmboxExtra.hu" tvg-name="FilmBox Extra HD" group-title="Ungrouped", FilmBox Extra HD
-http://hutv.ddns.net:8001/1:0:19:773B:2C1:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:773B:2C1:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.FilmboxFamily.hu" tvg-name="Filmbox Family" group-title="Ungrouped", Filmbox Family
-http://hutv.ddns.net:8001/1:0:1:75F9:2BE:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:75F9:2BE:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.FilmBoxFamily.ro" tvg-name="Filmbox Family" group-title="Ungrouped", Filmbox Family
-http://hutv.ddns.net:8001/1:0:1:75F9:2BE:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:75F9:2BE:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.FilmboxPlus.hu" tvg-name="Filmbox Plus" group-title="Ungrouped", Filmbox Plus
-http://hutv.ddns.net:8001/1:0:1:7609:2BE:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7609:2BE:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.FilmboxPremium.hu" tvg-name="Filmbox Premium" group-title="Ungrouped", Filmbox Premium
-http://hutv.ddns.net:8001/1:0:1:FB8:AF4:BB:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:FB8:AF4:BB:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.FilmboxPremium.hu" tvg-name="Filmbox Premium" group-title="Ungrouped", Filmbox Premium
-http://hutv.ddns.net:8001/1:0:16:772B:2C1:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:16:772B:2C1:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.FineLiving.hu" tvg-name="Fine Living.." group-title="Ungrouped", Fine Living..
-http://hutv.ddns.net:8001/1:0:1:76C5:2C0:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:76C5:2C0:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.FishingHunting.hu" tvg-name="Fishing and Hunting" group-title="Ungrouped", Fishing and Hunting
-http://hutv.ddns.net:8001/1:0:1:79FC:2C8:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:79FC:2C8:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.FishingHunting.hu" tvg-name="Fishing and Hunting" group-title="Ungrouped", Fishing and Hunting
-http://hutv.ddns.net:8001/1:0:1:79FF:2C8:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:79FF:2C8:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.FishingHunting.hu" tvg-name="Fishing and Hunting" group-title="Ungrouped", Fishing and Hunting
-http://hutv.ddns.net:8001/1:0:1:7A01:2C8:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7A01:2C8:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.FoodNetwork.hu" tvg-name="Food Network" group-title="Ungrouped", Food Network
-http://hutv.ddns.net:8001/1:0:1:765F:2BF:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:765F:2BF:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Fox.hu" tvg-name="FOX" group-title="Ungrouped", FOX
-http://hutv.ddns.net:8001/1:0:1:10:1A90:9E:5A0000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:10:1A90:9E:5A0000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Galaxy.hu" tvg-name="GALAXY" group-title="Ungrouped", GALAXY
-http://hutv.ddns.net:8001/1:0:1:A96:3:1:E082F62:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:A96:3:1:E082F62:0:0:0:
 #EXTINF: -1 tvg-id="http://www.H!TMusic.ro" tvg-name="H!T Music Channel" group-title="Ungrouped", H!T Music Channel
-http://hutv.ddns.net:8001/1:0:1:A1E:5:1:E082E09:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:A1E:5:1:E082E09:0:0:0:
 #EXTINF: -1 tvg-id="http://www.HappyTV.ro" tvg-name="Happy TV" group-title="Ungrouped", Happy TV
-http://hutv.ddns.net:8001/1:0:1:7667:2BF:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7667:2BF:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.HirTV.hu" tvg-name="HirTV" group-title="Ungrouped", HirTV
-http://hutv.ddns.net:8001/1:0:1:7790:2C2:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7790:2C2:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.HISTORY.hu" tvg-name="History" group-title="Ungrouped", History
-http://hutv.ddns.net:8001/1:0:1:1CAC:4C:46:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:1CAC:4C:46:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.HISTORY.hu" tvg-name="HISTORY" group-title="Ungrouped", HISTORY
-http://hutv.ddns.net:8001/1:0:1:40A:7:1:E08313F:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:40A:7:1:E08313F:0:0:0:
 #EXTINF: -1 tvg-id="http://www.HISTORY.hu" tvg-name="HISTORY" group-title="Ungrouped", HISTORY
-http://hutv.ddns.net:8001/1:0:1:785E:2C4:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:785E:2C4:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.HISTORY.hu" tvg-name="History" group-title="Ungrouped", History
-http://hutv.ddns.net:8001/1:0:1:798A:2C7:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:798A:2C7:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.HISTORY.hu" tvg-name="History Chnl HD" group-title="Ungrouped", History Chnl HD
-http://hutv.ddns.net:8001/1:0:19:106A:29:46:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:106A:29:46:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.HISTORY.hu" tvg-name="History Chnl HD" group-title="Ungrouped", History Chnl HD
-http://hutv.ddns.net:8001/1:0:19:106E:29:46:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:106E:29:46:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.HISTORY.hu" tvg-name="History HD" group-title="Ungrouped", History HD
-http://hutv.ddns.net:8001/1:0:19:773C:2C1:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:773C:2C1:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Humor+.hu" tvg-name="Humor +" group-title="Ungrouped", Humor +
-http://hutv.ddns.net:8001/1:0:1:798D:2C7:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:798D:2C7:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Humor+.hu" tvg-name="Humor +" group-title="Ungrouped", Humor +
-http://hutv.ddns.net:8001/1:0:1:7992:2C7:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7992:2C7:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.IDExtra.hu" tvg-name="ID Xtra" group-title="Ungrouped", ID Xtra
-http://hutv.ddns.net:8001/1:0:1:785B:2C4:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:785B:2C4:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.IDXtra.hu" tvg-name="ID Xtra" group-title="Ungrouped", ID Xtra
-http://hutv.ddns.net:8001/1:0:1:785B:2C4:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:785B:2C4:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.IDXtra.hu" tvg-name="ID Xtra" group-title="Ungrouped", ID Xtra
-http://hutv.ddns.net:8001/1:0:1:BC5:AF3:BB:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:BC5:AF3:BB:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.IDXtra.hu" tvg-name="ID Xtra" group-title="Ungrouped", ID Xtra
-http://hutv.ddns.net:8001/1:0:1:190:1:5E:30B022:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:190:1:5E:30B022:0:0:0:
 #EXTINF: -1 tvg-id="http://www.IDXtra.hu" tvg-name="Investigation Discovery" group-title="Ungrouped", Investigation Discovery
-http://hutv.ddns.net:8001/1:0:1:7987:2C7:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7987:2C7:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.IzauraTV.hu" tvg-name="Izaura TV" group-title="Ungrouped", Izaura TV
-http://hutv.ddns.net:8001/1:0:1:79F7:2C8:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:79F7:2C8:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.IzauraTV.hu" tvg-name="Izaura TV" group-title="Ungrouped", Izaura TV
-http://hutv.ddns.net:8001/1:0:1:79F8:2C8:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:79F8:2C8:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.JimJam.hu" tvg-name="JimJam" group-title="Ungrouped", JimJam
-http://hutv.ddns.net:8001/1:0:1:77EE:2C3:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:77EE:2C3:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.JockyTV.hu" tvg-name="Jocky TV" group-title="Ungrouped", Jocky TV
-http://hutv.ddns.net:8001/1:0:1:75AA:2BD:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:75AA:2BD:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.JockyTV.hu" tvg-name="Jocky TV" group-title="Ungrouped", Jocky TV
-http://hutv.ddns.net:8001/1:0:1:75B2:2BD:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:75B2:2BD:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.KissTV.ro" tvg-name="Kiss TV" group-title="Ungrouped", Kiss TV
-http://hutv.ddns.net:8001/1:0:1:3FB:1:1:E08318F:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:3FB:1:1:E08318F:0:0:0:
 #EXTINF: -1 tvg-id="http://www.KiwiTV.hu" tvg-name="Kiwi TV" group-title="Ungrouped", Kiwi TV
-http://hutv.ddns.net:8001/1:0:1:76D1:2C0:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:76D1:2C0:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.m1.hu" tvg-name="m1" group-title="Ungrouped", m1
-http://hutv.ddns.net:8001/1:0:1:618:5:1:E082E09:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:618:5:1:E082E09:0:0:0:
 #EXTINF: -1 tvg-id="http://www.m1.hu" tvg-name="m1" group-title="Ungrouped", m1
-http://hutv.ddns.net:8001/1:0:1:778D:2C2:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:778D:2C2:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.m1.hu" tvg-name="M1 HD" group-title="Ungrouped", M1 HD
-http://hutv.ddns.net:8001/1:0:1:FC8:D:1:E082E2F:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:FC8:D:1:E082E2F:0:0:0:
 #EXTINF: -1 tvg-id="http://www.m1.hu" tvg-name="m1 HD" group-title="Ungrouped", m1 HD
-http://hutv.ddns.net:8001/1:0:19:65:1838:9E:5A0000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:65:1838:9E:5A0000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.m1.hu" tvg-name="m1 HD" group-title="Ungrouped", m1 HD
-http://hutv.ddns.net:8001/1:0:19:6F:1838:9E:5A0000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:6F:1838:9E:5A0000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.m2.hu" tvg-name="m2" group-title="Ungrouped", m2
-http://hutv.ddns.net:8001/1:0:1:778F:2C2:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:778F:2C2:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.m2.hu" tvg-name="m2" group-title="Ungrouped", m2
-http://hutv.ddns.net:8001/1:0:1:A8C:5:1:E082E09:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:A8C:5:1:E082E09:0:0:0:
 #EXTINF: -1 tvg-id="http://www.m2.hu" tvg-name="m2 HD" group-title="Ungrouped", m2 HD
-http://hutv.ddns.net:8001/1:0:19:7726:2C1:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:7726:2C1:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.m2.hu" tvg-name="m2 HD" group-title="Ungrouped", m2 HD
-http://hutv.ddns.net:8001/1:0:19:66:1838:9E:5A0000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:66:1838:9E:5A0000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.m2.hu" tvg-name="m2 HD" group-title="Ungrouped", m2 HD
-http://hutv.ddns.net:8001/1:0:19:70:1838:9E:5A0000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:70:1838:9E:5A0000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.m3.hu" tvg-name="M3 Anno" group-title="Ungrouped", M3 Anno
-http://hutv.ddns.net:8001/1:0:1:77F4:2C3:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:77F4:2C3:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.m3.hu" tvg-name="M3 Anno" group-title="Ungrouped", M3 Anno
-http://hutv.ddns.net:8001/1:0:1:79E2:2C8:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:79E2:2C8:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.m3.hu" tvg-name="M3 Anno" group-title="Ungrouped", M3 Anno
-http://hutv.ddns.net:8001/1:0:1:6E:1838:9E:5A0000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:6E:1838:9E:5A0000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.M4Sport.hu" tvg-name="m4 HD" group-title="Ungrouped", m4 HD
-http://hutv.ddns.net:8001/1:0:19:791E:2C6:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:791E:2C6:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.M4Sport.hu" tvg-name="M4 Sport" group-title="Ungrouped", M4 Sport
-http://hutv.ddns.net:8001/1:0:16:BD2:AF3:BB:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:16:BD2:AF3:BB:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.M4Sport.hu" tvg-name="M4 Sport" group-title="Ungrouped", M4 Sport
-http://hutv.ddns.net:8001/1:0:19:68:1838:9E:5A0000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:68:1838:9E:5A0000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.M4Sport.hu" tvg-name="M4 Sport" group-title="Ungrouped", M4 Sport
-http://hutv.ddns.net:8001/1:0:19:72:1838:9E:5A0000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:72:1838:9E:5A0000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.M4Sport.hu" tvg-name="M4 Sport" group-title="Ungrouped", M4 Sport
-http://hutv.ddns.net:8001/1:0:1:21A7:1478:A7:13B0000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:21A7:1478:A7:13B0000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.M4Sport.hu" tvg-name="M4 Sport" group-title="Ungrouped", M4 Sport
-http://hutv.ddns.net:8001/1:0:1:51A:3:64:DE80000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:51A:3:64:DE80000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.M4Sport.hu" tvg-name="M4 Sport" group-title="Ungrouped", M4 Sport
-http://hutv.ddns.net:8001/1:0:1:57A:4:64:DE80000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:57A:4:64:DE80000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.M4Sport.hu" tvg-name="M4 Sport HD" group-title="Ungrouped", M4 Sport HD
-http://hutv.ddns.net:8001/1:0:1:DA2:C:1:E082E7C:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:DA2:C:1:E082E7C:0:0:0:
 #EXTINF: -1 tvg-id="http://www.m5.hu" tvg-name="m5 HD" group-title="Ungrouped", m5 HD
-http://hutv.ddns.net:8001/1:0:1:7675:2BF:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7675:2BF:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.m5.hu" tvg-name="m5 HD" group-title="Ungrouped", m5 HD
-http://hutv.ddns.net:8001/1:0:19:773A:2C1:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:773A:2C1:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.m5.hu" tvg-name="m5 HD" group-title="Ungrouped", m5 HD
-http://hutv.ddns.net:8001/1:0:19:6A:1838:9E:5A0000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:6A:1838:9E:5A0000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.m5.hu" tvg-name="m5 HD" group-title="Ungrouped", m5 HD
-http://hutv.ddns.net:8001/1:0:19:74:1838:9E:5A0000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:74:1838:9E:5A0000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Megamax.hu" tvg-name="Megamax" group-title="Ungrouped", Megamax
-http://hutv.ddns.net:8001/1:0:1:7851:2C4:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7851:2C4:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Megamax.hu" tvg-name="Megamax" group-title="Ungrouped", Megamax
-http://hutv.ddns.net:8001/1:0:1:7865:2C4:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7865:2C4:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Megamax.hu" tvg-name="Megamax" group-title="Ungrouped", Megamax
-http://hutv.ddns.net:8001/1:0:1:797D:2C7:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:797D:2C7:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Megamax.hu" tvg-name="Megamax" group-title="Ungrouped", Megamax
-http://hutv.ddns.net:8001/1:0:1:7991:2C7:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7991:2C7:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Mezzo.en" tvg-name="Mezzo" group-title="Ungrouped", Mezzo
-http://hutv.ddns.net:8001/1:0:1:D16:3:1:E083163:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:D16:3:1:E083163:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Mezzo.en" tvg-name="Mezzo" group-title="Ungrouped", Mezzo
-http://hutv.ddns.net:8001/1:0:19:138F:30:36:CE40000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:138F:30:36:CE40000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Minimax.hu" tvg-name="Minimax" group-title="Ungrouped", Minimax
-http://hutv.ddns.net:8001/1:0:1:56E:5:1:E082E09:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:56E:5:1:E082E09:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Minimax.hu" tvg-name="Minimax" group-title="Ungrouped", Minimax
-http://hutv.ddns.net:8001/1:0:1:7605:2BE:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7605:2BE:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.MoziPlus.hu" tvg-name="Mozi+" group-title="Ungrouped", Mozi+
-http://hutv.ddns.net:8001/1:0:1:766B:2BF:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:766B:2BF:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Moziverzum.hu" tvg-name="Moziverzum" group-title="Ungrouped", Moziverzum
-http://hutv.ddns.net:8001/1:0:1:75B1:2BD:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:75B1:2BD:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Moziverzum.hu" tvg-name="Moziverzum" group-title="Ungrouped", Moziverzum
-http://hutv.ddns.net:8001/1:0:1:75B3:2BD:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:75B3:2BD:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.MTVHungary.hu" tvg-name="MTV Hungary" group-title="Ungrouped", MTV Hungary
-http://hutv.ddns.net:8001/1:0:1:77AE:2C2:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:77AE:2C2:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www." tvg-name="MTV Music" group-title="Ungrouped", MTV Music
-http://hutv.ddns.net:8001/1:0:1:79F0:2C8:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:79F0:2C8:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.MusicChannel.hu" tvg-name="Music Channel" group-title="Ungrouped", Music Channel
-http://hutv.ddns.net:8001/1:0:1:401:C:1:E082E7C:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:401:C:1:E082E7C:0:0:0:
 #EXTINF: -1 tvg-id="http://www.MusicChannel.hu" tvg-name="Music Channel HU" group-title="Ungrouped", Music Channel HU
-http://hutv.ddns.net:8001/1:0:1:A14:5:1:E082E09:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:A14:5:1:E082E09:0:0:0:
 #EXTINF: -1 tvg-id="http://www.MuzsikaTV.hu" tvg-name="Muzsika TV" group-title="Ungrouped", Muzsika TV
-http://hutv.ddns.net:8001/1:0:1:79EF:2C8:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:79EF:2C8:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.NationalGeographic.hu" tvg-name="Nat Geo" group-title="Ungrouped", Nat Geo
-http://hutv.ddns.net:8001/1:0:1:7854:2C4:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7854:2C4:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.NationalGeographic.hu" tvg-name="Nat Geo" group-title="Ungrouped", Nat Geo
-http://hutv.ddns.net:8001/1:0:1:7980:2C7:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7980:2C7:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.NationalGeographic.hu" tvg-name="Nat Geo HD (HUN)" group-title="Ungrouped", Nat Geo HD (HUN)
-http://hutv.ddns.net:8001/1:0:1:B50:7:1:E08313F:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:B50:7:1:E08313F:0:0:0:
 #EXTINF: -1 tvg-id="http://www.NationalGeographic.hu" tvg-name="Nat Geo HD (HUN)" group-title="Ungrouped", Nat Geo HD (HUN)
-http://hutv.ddns.net:8001/1:0:19:BCD:3:1111:E08B0A8:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:BCD:3:1111:E08B0A8:0:0:0:
 #EXTINF: -1 tvg-id="http://www.NatGeoWild.hu" tvg-name="Nat Geo Wild" group-title="Ungrouped", Nat Geo Wild
-http://hutv.ddns.net:8001/1:0:1:1018:3:1:E082F62:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:1018:3:1:E082F62:0:0:0:
 #EXTINF: -1 tvg-id="http://www.NatGeoWild.hu" tvg-name="Nat Geo Wild" group-title="Ungrouped", Nat Geo Wild
-http://hutv.ddns.net:8001/1:0:1:77F7:2C3:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:77F7:2C3:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.NatGeoWild.hu" tvg-name="Nat Geo Wild" group-title="Ungrouped", Nat Geo Wild
-http://hutv.ddns.net:8001/1:0:19:12C5:26:46:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:12C5:26:46:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.NatGeoWildHD.hu" tvg-name="Nat Geo Wild HD" group-title="Ungrouped", Nat Geo Wild HD
-http://hutv.ddns.net:8001/1:0:19:7725:2C1:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:7725:2C1:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.NationalGeographic.hu" tvg-name="National Geographic Channel" group-title="Ungrouped", National Geographic Channel
-http://hutv.ddns.net:8001/1:0:16:313:C94:3:EB0000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:16:313:C94:3:EB0000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.NationalGeographic.hu" tvg-name="NGC HD" group-title="Ungrouped", NGC HD
-http://hutv.ddns.net:8001/1:0:19:7E2:AF2:BB:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:7E2:AF2:BB:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.NickJr.hu" tvg-name="Nick JR Hungary" group-title="Ungrouped", Nick JR Hungary
-http://hutv.ddns.net:8001/1:0:1:3F0:5:1111:E082DE3:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:3F0:5:1111:E082DE3:0:0:0:
 #EXTINF: -1 tvg-id="http://www.NickJr.hu" tvg-name="Nick JR Hungary" group-title="Ungrouped", Nick JR Hungary
-http://hutv.ddns.net:8001/1:0:1:77AD:2C2:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:77AD:2C2:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.NickJr.hu" tvg-name="Nick JR Hungary" group-title="Ungrouped", Nick JR Hungary
-http://hutv.ddns.net:8001/1:0:1:77CB:2C2:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:77CB:2C2:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Nickelodeon.hu" tvg-name="Nickelodeon" group-title="Ungrouped", Nickelodeon
-http://hutv.ddns.net:8001/1:0:1:3EA:5:1111:E082DE3:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:3EA:5:1111:E082DE3:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Nickelodeon.hu" tvg-name="Nickelodeon" group-title="Ungrouped", Nickelodeon
-http://hutv.ddns.net:8001/1:0:1:77AC:2C2:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:77AC:2C2:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Nickelodeon.hu" tvg-name="Nickelodeon" group-title="Ungrouped", Nickelodeon
-http://hutv.ddns.net:8001/1:0:1:77CA:2C2:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:77CA:2C2:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Nickelodeon.hu" tvg-name="Nickelodeon Europe" group-title="Ungrouped", Nickelodeon Europe
-http://hutv.ddns.net:8001/1:0:1:1F9:1B:2C0:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:1F9:1B:2C0:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.OzoneNetwork.hu" tvg-name="OzoneNetwork" group-title="Ungrouped", OzoneNetwork
-http://hutv.ddns.net:8001/1:0:1:A82:4:1:E08AF9C:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:A82:4:1:E08AF9C:0:0:0:
 #EXTINF: -1 tvg-id="http://www.ParamountChannel.hu" tvg-name="Paramount Channel Hun" group-title="Ungrouped", Paramount Channel Hun
-http://hutv.ddns.net:8001/1:0:1:1F5:1B:2C0:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:1F5:1B:2C0:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.PAXTV.hu" tvg-name="Pax TV" group-title="Ungrouped", Pax TV
-http://hutv.ddns.net:8001/1:0:1:402:2:1:E0831B3:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:402:2:1:E0831B3:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Prime.hu" tvg-name="Prime" group-title="Ungrouped", Prime
-http://hutv.ddns.net:8001/1:0:1:405:2:1:E0831B3:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:405:2:1:E0831B3:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Prime.hu" tvg-name="Prime" group-title="Ungrouped", Prime
-http://hutv.ddns.net:8001/1:0:1:78C0:2C5:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:78C0:2C5:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.RomanceTV.hu" tvg-name="Romance TV" group-title="Ungrouped", Romance TV
-http://hutv.ddns.net:8001/1:0:1:797F:2C7:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:797F:2C7:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.SlagerTV.hu" tvg-name="Slager TV" group-title="Ungrouped", Slager TV
-http://hutv.ddns.net:8001/1:0:1:100E:3:1:E082F62:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:100E:3:1:E082F62:0:0:0:
 #EXTINF: -1 tvg-id="http://www.SlagerTV.hu" tvg-name="Slager TV" group-title="Ungrouped", Slager TV
-http://hutv.ddns.net:8001/1:0:1:7859:2C4:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7859:2C4:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.SlagerTV.hu" tvg-name="Slager TV" group-title="Ungrouped", Slager TV
-http://hutv.ddns.net:8001/1:0:1:7985:2C7:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7985:2C7:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.SlagerTV.hu" tvg-name="Slagr TV" group-title="Ungrouped", Slagr TV
-http://hutv.ddns.net:8001/1:0:16:3FF:AF1:BB:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:16:3FF:AF1:BB:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.SonyMax.hu" tvg-name="Sony Max" group-title="Ungrouped", Sony Max
-http://hutv.ddns.net:8001/1:0:1:2B0B:B:1111:E082F3C:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:2B0B:B:1111:E082F3C:0:0:0:
 #EXTINF: -1 tvg-id="http://www.SonyMovieChannel.hu" tvg-name="Sony Movie Channel" group-title="Ungrouped", Sony Movie Channel
-http://hutv.ddns.net:8001/1:0:1:2B0C:B:1111:E082F3C:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:2B0C:B:1111:E082F3C:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Sorozat.hu" tvg-name="Sorozat+" group-title="Ungrouped", Sorozat+
-http://hutv.ddns.net:8001/1:0:1:79EE:2C8:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:79EE:2C8:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Spektrum.hu" tvg-name="Spektrum" group-title="Ungrouped", Spektrum
-http://hutv.ddns.net:8001/1:0:1:77F8:2C3:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:77F8:2C3:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Spektrum.hu" tvg-name="Spektrum" group-title="Ungrouped", Spektrum
-http://hutv.ddns.net:8001/1:0:1:A6E:5:1:E082E09:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:A6E:5:1:E082E09:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Spektrum.hu" tvg-name="Spektrum" group-title="Ungrouped", Spektrum
-http://hutv.ddns.net:8001/1:0:19:BC4:AF3:BB:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:BC4:AF3:BB:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.SpektrumHome.hu" tvg-name="Spektrum Home" group-title="Ungrouped", Spektrum Home
-http://hutv.ddns.net:8001/1:0:1:7666:2BF:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7666:2BF:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.SpektrumHome.hu" tvg-name="Spektrum Home" group-title="Ungrouped", Spektrum Home
-http://hutv.ddns.net:8001/1:0:1:B77:5:1:E082E09:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:B77:5:1:E082E09:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Spektrum.hu" tvg-name="SpektrumHD" group-title="Ungrouped", SpektrumHD
-http://hutv.ddns.net:8001/1:0:1:2D7:C9A:3:EB0000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:2D7:C9A:3:EB0000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.SpilerTV.hu" tvg-name="Spiler TV" group-title="Ungrouped", Spiler TV
-http://hutv.ddns.net:8001/1:0:1:7610:2BE:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7610:2BE:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.SpilerTV.hu" tvg-name="Spiler TV" group-title="Ungrouped", Spiler TV
-http://hutv.ddns.net:8001/1:0:1:D16:3:1:E082F62:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:D16:3:1:E082F62:0:0:0:
 #EXTINF: -1 tvg-id="http://www.SpilerTV2.hu" tvg-name="Spiler TV 2" group-title="Ungrouped", Spiler TV 2
-http://hutv.ddns.net:8001/1:0:1:75B0:2BD:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:75B0:2BD:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.SpilerTV2.hu" tvg-name="Spiler TV 2" group-title="Ungrouped", Spiler TV 2
-http://hutv.ddns.net:8001/1:0:1:A0A:5:1:E082E09:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:A0A:5:1:E082E09:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Sport1.hu" tvg-name="Sport 1 HD" group-title="Ungrouped", Sport 1 HD
-http://hutv.ddns.net:8001/1:0:1:1B5B:65:1771:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:1B5B:65:1771:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Sport1.hu" tvg-name="Sport 1 HD" group-title="Ungrouped", Sport 1 HD
-http://hutv.ddns.net:8001/1:0:1:A32:5:1:E082E09:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:A32:5:1:E082E09:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Sport1.hu" tvg-name="Sport 1 HD" group-title="Ungrouped", Sport 1 HD
-http://hutv.ddns.net:8001/1:0:19:7727:2C1:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:7727:2C1:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Sport1.hu" tvg-name="Sport1" group-title="Ungrouped", Sport1
-http://hutv.ddns.net:8001/1:0:1:7598:2BD:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7598:2BD:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Sport2.hu" tvg-name="Sport2" group-title="Ungrouped", Sport2
-http://hutv.ddns.net:8001/1:0:1:75FD:2BE:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:75FD:2BE:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Sport2.hu" tvg-name="Sport2" group-title="Ungrouped", Sport2
-http://hutv.ddns.net:8001/1:0:1:A3C:5:1:E082E09:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:A3C:5:1:E082E09:0:0:0:
 #EXTINF: -1 tvg-id="http://www.SportM.hu" tvg-name="SportM" group-title="Ungrouped", SportM
-http://hutv.ddns.net:8001/1:0:1:7860:2C4:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7860:2C4:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.SportM.hu" tvg-name="SportM" group-title="Ungrouped", SportM
-http://hutv.ddns.net:8001/1:0:1:798C:2C7:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:798C:2C7:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.STORY4.hu" tvg-name="Story 4" group-title="Ungrouped", Story 4
-http://hutv.ddns.net:8001/1:0:1:7989:2C7:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7989:2C7:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.STORY4.hu" tvg-name="STORY4" group-title="Ungrouped", STORY4
-http://hutv.ddns.net:8001/1:0:1:5F0:3:1:E082F62:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:5F0:3:1:E082F62:0:0:0:
 #EXTINF: -1 tvg-id="http://www.STORY4.hu" tvg-name="STORY4" group-title="Ungrouped", STORY4
-http://hutv.ddns.net:8001/1:0:1:785D:2C4:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:785D:2C4:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.SundanceChannel.hu" tvg-name="Sundance HD" group-title="Ungrouped", Sundance HD
-http://hutv.ddns.net:8001/1:0:19:791F:2C6:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:791F:2C6:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.TLC.hu" tvg-name="TLC" group-title="Ungrouped", TLC
-http://hutv.ddns.net:8001/1:0:1:1004:5:1:E082E09:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:1004:5:1:E082E09:0:0:0:
 #EXTINF: -1 tvg-id="http://www.TLC.hu" tvg-name="TLC" group-title="Ungrouped", TLC
-http://hutv.ddns.net:8001/1:0:1:78B6:2C5:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:78B6:2C5:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.TravelChannel.hu" tvg-name="Travel Channel" group-title="Ungrouped", Travel Channel
-http://hutv.ddns.net:8001/1:0:1:7984:2C7:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7984:2C7:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.TravelChannelHD.eu" tvg-name="Travel Channel" group-title="Ungrouped", Travel Channel
-http://hutv.ddns.net:8001/1:0:1:7858:2C4:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7858:2C4:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.TV4.hu" tvg-name="TV 4" group-title="Ungrouped", TV 4
-http://hutv.ddns.net:8001/1:0:1:A50:5:1:E082E09:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:A50:5:1:E082E09:0:0:0:
 #EXTINF: -1 tvg-id="http://www.TVPaprika.hu" tvg-name="TV Paprika" group-title="Ungrouped", TV Paprika
-http://hutv.ddns.net:8001/1:0:1:60E:4:1:E08AF9C:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:60E:4:1:E08AF9C:0:0:0:
 #EXTINF: -1 tvg-id="http://www.TVPaprika.hu" tvg-name="TV Paprika" group-title="Ungrouped", TV Paprika
-http://hutv.ddns.net:8001/1:0:1:75A0:2BD:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:75A0:2BD:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.TVPaprika.hu" tvg-name="TV Paprika" group-title="Ungrouped", TV Paprika
-http://hutv.ddns.net:8001/1:0:1:A28:5:1:E082E09:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:A28:5:1:E082E09:0:0:0:
 #EXTINF: -1 tvg-id="http://www.VH1.eu" tvg-name="VH1" group-title="Ungrouped", VH1
-http://hutv.ddns.net:8001/1:0:19:138E:30:36:CE40000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:138E:30:36:CE40000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Viasat3.hu" tvg-name="Viasat 3" group-title="Ungrouped", Viasat 3
-http://hutv.ddns.net:8001/1:0:1:2B09:B:1111:E082F3C:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:2B09:B:1111:E082F3C:0:0:0:
 #EXTINF: -1 tvg-id="http://www.VIASAT6.hu" tvg-name="Viasat 6" group-title="Ungrouped", Viasat 6
-http://hutv.ddns.net:8001/1:0:1:2B0A:B:1111:E082F3C:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:2B0A:B:1111:E082F3C:0:0:0:
 #EXTINF: -1 tvg-id="http://www.ViasatExplorer.hu" tvg-name="Viasat Explore" group-title="Ungrouped", Viasat Explore
-http://hutv.ddns.net:8001/1:0:1:78B8:2C5:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:78B8:2C5:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.ViasatExplorer.hu" tvg-name="Viasat Explore" group-title="Ungrouped", Viasat Explore
-http://hutv.ddns.net:8001/1:0:1:B87:7:1:E08313F:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:B87:7:1:E08313F:0:0:0:
 #EXTINF: -1 tvg-id="http://www.ViasatHistory.hu" tvg-name="Viasat History" group-title="Ungrouped", Viasat History
-http://hutv.ddns.net:8001/1:0:1:7856:2C4:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7856:2C4:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.ViasatNature.hu" tvg-name="Viasat Nature" group-title="Ungrouped", Viasat Nature
-http://hutv.ddns.net:8001/1:0:1:622:3:1:E082F62:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:622:3:1:E082F62:0:0:0:
 #EXTINF: -1 tvg-id="http://www.ViasatNature.hu" tvg-name="Viasat Nature" group-title="Ungrouped", Viasat Nature
-http://hutv.ddns.net:8001/1:0:19:FBE:AF4:BB:E08B1B3:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:19:FBE:AF4:BB:E08B1B3:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Viasat3.hu" tvg-name="Viasat3" group-title="Ungrouped", Viasat3
-http://hutv.ddns.net:8001/1:0:1:7805:2C3:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7805:2C3:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Zenebutik.hu" tvg-name="Zenebutik" group-title="Ungrouped", Zenebutik
-http://hutv.ddns.net:8001/1:0:1:7862:2C4:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7862:2C4:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Zenebutik.hu" tvg-name="Zenebutik" group-title="Ungrouped", Zenebutik
-http://hutv.ddns.net:8001/1:0:1:7867:2C4:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7867:2C4:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Zenebutik.hu" tvg-name="Zenebutik" group-title="Ungrouped", Zenebutik
-http://hutv.ddns.net:8001/1:0:1:798E:2C7:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:798E:2C7:600:E080000:0:0:0:
 #EXTINF: -1 tvg-id="http://www.Zenebutik.hu" tvg-name="Zenebutik" group-title="Ungrouped", Zenebutik
-http://hutv.ddns.net:8001/1:0:1:7993:2C7:600:E080000:0:0:0:
+http://huiptv.duckdns.org:8001/1:0:1:7993:2C7:600:E080000:0:0:0:
